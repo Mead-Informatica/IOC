@@ -9,6 +9,7 @@
 1e2f21362b5.quillforms.app
 206zulu.org
 285c2f4016.nxcli.io
+2c9e7a15-6d4b-4f81-b3e2-5a7d9c0e1f68.blogspot.it
 3dimensionful.com
 48094845600849.blogspot.com
 53214991614849.blogspot.com
@@ -53,6 +54,7 @@ afolmet.myportfolio.com
 afsaces.accesscam.org
 afxwd.ddns.net
 agence-nationale.particulier-fr.com
+agenzia-entrate.com
 aggio3ds.com
 agreesta.com
 agrsanpaolo.resecio.de
@@ -103,7 +105,6 @@ arrt.geaavhiphgood.live
 asakura.in
 asdad21ww.freeddns.org
 assistenza-4faaq.servehalflife.com
-assistenza-lntesa.com
 assistenza-pukt.bounceme.net
 assistenza-rfuci.serveblog.net
 aszsistenezaital.wpdevcloud.com
@@ -112,7 +113,6 @@ audioza.cyou
 augugliaro.altervista.org
 autcostrade.cc
 auth-in-extranet.com
-authvesrng.im
 automaf.top
 autostradc.vip
 autostrade.cc
@@ -327,6 +327,8 @@ dslklkdflvksdlmdf.b-cdn.net
 dusfghjsabkjhsvzakghjsbkzksjhasadw.blogspot.com
 dutchfj.cyou
 dyh2ai-7g6050-xpx299-n2ob1jve68.s3.us-east-1.amazonaws.com
+e3de621d-594b-4d09-ab84-d5ef4aa9de59.blogspot.ca
+e3de621d-594b-4d09-ab84-d5ef4aa9de59.blogspot.com
 easy-aktualisierung-portal.locker
 ebonizz.cyou
 editorr.cyou
@@ -334,12 +336,14 @@ efzdbt.b-cdn.net
 eishin-kk-co.asia
 eldesty.cyou
 elements2788.appwrite.network
+enastoshkeemisr-official67.appwrite.network
 enchafehauberk.autos
 endoste.cyou
 enelpago.com
 enhancedsitebuilder.com
 enjambwm.cyou
 enjoyag.cyou
+eperserviziprofessionalieindividuali.fortan.io
 epicenf.cyou
 erddds.b-cdn.net
 erw.bsttotrk.com
@@ -383,6 +387,7 @@ fndskfkdsjgkfjfkjgf.b-cdn.net
 force-007-bk.ydns.eu
 force-007.ydns.eu
 fordoncity.se
+fortan.io
 foto-david.net
 founpiuer.store
 freeios.theworkpc.com
@@ -505,7 +510,6 @@ inpsweb.it
 inserisci-dati-avviso-pagopa.legacyhealingohio.com
 interrg.cyou
 intes.kasperyedikfih.com
-intesa-clienti.com
 intesaclient1.writesthisblog.com
 intesapagopa.boldlygoingnowhere.org
 intesassanpaolo.area-client-id7526700.com
@@ -711,6 +715,7 @@ nafdataservice.it
 nanafafa.myvnc.com
 narroxp.su
 navygenerayk.store
+ndcliberorelief.com
 ndemmaldsoapk.sfo3.cdn.digitaloceanspaces.com
 necklacedmny.store
 nekxseo.de
@@ -783,6 +788,7 @@ pagamentostrada.click
 pagamsita.ydns.eu
 pagamtalia.ydns.eu
 pagamtalias.ydns.eu
+paggopa2303.b-cdn.net
 paggopasccvs.b-cdn.net
 pago-pa-app-it.click
 pago-pa.artipel.pt
@@ -842,7 +848,6 @@ pogapo.cloudaccess.host
 polokinyea.gleeze.com
 pool-proxy.fud2026.com
 pool.fud2026.com
-portale-agenziaentrate.cc
 poste-italianepay-servizioclienti.thefinancepro.store
 potashbx.cyou
 pothi.eu
@@ -936,13 +941,13 @@ serolsmfd.atl1.cdn.digitaloceanspaces.com
 serviciopago.elitegaming.cl
 servizio-agenziaentrate.com
 servizioingit.justns.ru
-servmever-pane.franny24.com
 setupcodpr2.freeddns.org
 sfe-info.com
 sgasuaiyusyhhjs.b-cdn.net
 sgsn.accesscam.org
 sh-cp11.yyz2.servername.online
 sh-cp2.lax2.servername.online
+sh-cp7-au.yyz2.servername.online
 shdjcfbksbdiujhvbdishjsbkdkuhjqw.blogspot.com
 shhui.mjt.lu
 shieldns.my
@@ -1009,6 +1014,7 @@ sumup-it.klantenservice-pg-ag.im
 suomaresanu-oiaunxczma.wpdevcloud.com
 supceasfg1.loseyourip.com
 sushicool.net
+sutergy.com
 sutkart-45019094049.europe-west1.run.app
 svcopt.ac.in
 swedisc.cyou
@@ -1105,6 +1111,7 @@ uscplxsecjs.ddnsgeek.com
 uswebzoomus.com
 uu.edu.et
 v0-authentication-page-nine.vercel.app
+v4va8a-j0101c-1q17ra-qj9i4abv86.s3.us-east-1.amazonaws.com
 vals.bumbleshrimp.com
 vass.ooguy.com
 vass2025.casacam.net
@@ -1156,7 +1163,6 @@ winfoss1.kozow.com
 wix-006.blogspot.kr
 wix-007.blogspot.it
 wix-007.blogspot.qa
-wix-976543567890.blogspot.it
 wix-mnhjgtyr54567t8giuvsd56e4wsrxtf.blogspot.kr
 wix-plans.vercel.app
 wonderberg.online
@@ -1174,7 +1180,6 @@ ww3-ledger.com
 wwl.pho.mybluehost.me
 www-fatturazione-aruba-app-loginsecure.secur-de.com
 www.15base.net
-www.24418.lgbt
 www.28159robinave.com
 www.3701157.xyz
 www.5139kkk.com
@@ -1186,7 +1191,6 @@ www.64869.xyz
 www.66aakd.com
 www.6v9p82.info
 www.7333.win
-www.76aay.shop
 www.7rich.help
 www.8308913.asia
 www.93pg.vip
@@ -1201,7 +1205,6 @@ www.auricmorrow.vip
 www.ax777.top
 www.bethoupe.com
 www.beyondtemplates.co
-www.bl1.mobi
 www.bobosgroup.com
 www.boviro.live
 www.boxharian.com
@@ -1209,7 +1212,6 @@ www.bsxdj.vip
 www.burmap.com
 www.casiowioe3.shop
 www.ceilinteriorcandleprotect.autos
-www.chandikadevi.store
 www.checkoutpartner.xyz
 www.chiangmai-goettingen.de
 www.cleanyourdebt.com
@@ -1239,13 +1241,11 @@ www.estoraprint.com
 www.evilengine9.com
 www.f150tires.com
 www.ferraz-shawmut.ru
-www.financialinfra.xyz
 www.flashteams.net
 www.fliphtml5.guru
 www.gamemodx.ru
 www.gangwear.store
 www.getplumbuddy.com
-www.giantsandbox.xyz
 www.glueck.digital
 www.grottoarladajana.ch
 www.growthzen.site
@@ -1256,7 +1256,6 @@ www.hengqinyueyin.top
 www.hikami.dev
 www.hjh97.cc
 www.hococc.com
-www.huseor.top
 www.hzshn.cn
 www.idealeschoonzoon.com
 www.ikoeat.com
@@ -1287,14 +1286,12 @@ www.koronaa-lordfilm2.ru
 www.kvikmedia.ru
 www.kzworknow.site
 www.lao3366.com
-www.leddit.xyz
 www.lelaro.live
 www.lh6o2.com
 www.lolaglaskunst.nl
 www.makketnig.store
 www.maltelindellgolf.se
 www.manukalena.com
-www.mechanicsmafia.xyz
 www.mellowdew.co.uk
 www.membrane-roof.ru
 www.miwa-festival.fr
@@ -1362,7 +1359,6 @@ www.vmeste-app.store
 www.vvpvxk5622.top
 www.webinfoasg.com
 www.weronya.com
-www.wirelo.site
 www.womira.live
 www.worksfp.xyz
 www.wvraa.com
@@ -1372,7 +1368,6 @@ www.xscaler.cloud
 www.yayu54.app
 www.yourmoneymenders.org
 www.yshkj02.top
-www.zyouqj.mobi
 xegzer.top
 xm08ml-mvds9o-z6tfg4-jam1g1gjgl.s3.us-east-2.amazonaws.com
 xme-8-manatee-8b5a4e.netlify.app
