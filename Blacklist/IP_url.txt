@@ -23,7 +23,6 @@ http://130.94.6.228/apt.tar.gz
 http://130.94.6.228/update.tar.gz
 http://172.245.95.24/djlightfile.png
 http://185.29.10.117/VVwzXtLWWMMJzSskf127.bin
-http://192.109.200.5/webb/VAL.ps1
 http://192.3.101.19/
 http://192.3.101.19/..............................php
 http://192.3.101.19/283/sd87f87s8d78a6f6sdf32jh32jh4j32hjhdf7ds8f8.hta
@@ -45,7 +44,6 @@ http://209.54.102.132/ZFSkDn73.bin
 http://23.95.103.219/90/outleg.exe
 http://38.244.153.84
 http://38.244.153.84/ws/vnc/16722172876bf805?api_key=12345
-http://45.156.87.108/tinoval/Document_pdf.zip
 http://46.183.221.75/oYlZNh210.bin
 http://46.183.221.75/tLbPugSCNw5.bin
 http://91.92.242.219/img_230249.png
@@ -65,6 +63,13 @@ http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/7
 http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/7db6a844504ae1b/pg.php
 http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/7db6a844504ae1b/phone.php
 http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/7db6a844504ae1b/submit1.php
+http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/8cacfc0880a954b/index.php
+http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/8cacfc0880a954b/infos.php
+http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/8cacfc0880a954b/loading1.php
+http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/8cacfc0880a954b/loading4.php
+http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/8cacfc0880a954b/pg.php
+http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/8cacfc0880a954b/phone.php
+http://app-pagopa-account-42343983393llsere--infos122.codeanyapp.com/pagopa.it/8cacfc0880a954b/submit1.php
 http://avvipagose.temp.swtest.ru/iit/avviso/msdpweb/index.php
 http://avvipagose.temp.swtest.ru/iit/avviso/panel/classes/processor.php
 http://bmh-global.myfirewall.org/OneDrive.exe
@@ -96,10 +101,7 @@ http://giroconsultores.cl/adm/AASbrothtim.html
 http://gjizivji.hosted.phplist.com/lists/?p=subscribe&id=2
 http://icaremedicallondon.ca/ap/pagopa/log/
 http://icaremedicallondon.ca/ap/pagopa/log/send.php
-http://igw.myfirewall.org/EXCEL.exe
-http://igw.myfirewall.org/NOTEPAD.exe
 http://igw.myfirewall.org/OUTLOOK.EXE
-http://igw.myfirewall.org/OUTLOOK.exe
 http://igw.myfirewall.org/backgroundTaskHost.exe
 http://ist-lnps.it/I
 http://ist-nazionale-utente.it/l
@@ -129,9 +131,11 @@ http://srv247463.hoster-test.ru/it/pagopa/govapp/msdpweb/index.php
 http://srv247463.hoster-test.ru/it/pagopa/govapp/panel/classes/processor.php
 http://srv247616.hoster-test.ru/JKSAHDJASDHJASHJDHJKASDIUYWQEIUYQWEUYIUQIWYEUIYQWEHJKSAJHKDJHASJHDJKHASDHAKJSHDJHASHDJKHASDUIYQWEYIUQWYEYQWIEYQWYIUEUIYQWEUHJASKDHKJASDHKJKASHJDIYUQWEIUYQWEIUYQWUYEUYIQWEYUIQWUYEUYQWEJSHJADHAHKJSDUIYQWEYUQYUWEQWE.HTML
 http://srv247720.hoster-test.ru/ASDASDASDHJSAKHDHKSADASDUYWQIYEQWEQWE.HTML
+http://srv248787.hoster-test.ru/pagopa/log/
+http://srv248787.hoster-test.ru/pagopa/log/msdpweb/index.php
+http://srv248787.hoster-test.ru/pagopa/log/msdpweb/send.php
 http://surl.bot/Kz
 http://tinyurl.com/35t9kjvh
-http://uu.edu.et/italy/PAG0-PA/log/
 http://wagoto.info/goog/
 http://webmail.gruptesi.cat/imp/attachment.php
 http://webmail.gruptesi.cat/imp/attachment.php?id=69b294a3-2e20-4ad4-8102-525b2eb7741f&amp;u=gestio%40gruptesi.cat
@@ -316,6 +320,7 @@ https://3dimensionful.com/
 https://40klx1dvv7a4gqfp.emailsview.app/KYC_BPM/
 https://4e1d9c72-5b3a-4f6e-a2c1-7d8b0f9a3e65.blogspot.com/
 https://4e1d9c72-5b3a-4f6e-a2c1-7d8b0f9a3e65.blogspot.kr/
+https://5.101.84.202:8996/
 https://5.129.230.104:7011
 https://5aada44896741358d728bc17cecc4929.m.pipedream.net/
 https://5f8d2b41-3c7a-4e9f-a6d2-8b1c0e4f7a23.blogspot.com/
@@ -349,9 +354,6 @@ https://actuasanitaria.com/support/loading/check.php
 https://addvalueengineering.sk/wp-content/auth
 https://adipay.xyz/logon/
 https://adipay.xyz/logon/login.php
-https://admin-support.im/Ittt/klarna/
-https://admin-support.im/Ittt/klarna/log.php
-https://admin-support.im/Ittt/klarna/s/a.php
 https://adoiqa.justns.ru/e/pagoana/pagopa/log/
 https://adoiqa.justns.ru/e/pagoana/pagopa/log/msdpweb/index.php
 https://adoiqa.justns.ru/e/pagoana/pagopa/log/msdpweb/loading3.php
@@ -725,10 +727,10 @@ https://crisiwarny.store/api
 https://csaerst853-ygfaev434.tecchein.cam/
 https://csaerst853-ygfaev434.tecchein.cam/api/send-email
 https://ctrl.mminsdf.info/
+https://curlm.in/2WoW2Y
 https://cutlinker.com/41b17
 https://cutt.cx/mBRA
 https://cx8vmdjAiQH3gtKOSp1S7i4WD7m87VIhKxx6Opn7a.kicards.com
-https://d-nd.net/83b79369a1
 https://datacrate.click/r2.php
 https://dati-inps.com/busta.php
 https://dati-inps.com/cf.php
@@ -849,6 +851,7 @@ https://erw.bsttotrk.com/2GXK7W/7K7ZX4J/
 https://essentialsoils.lat/H0i45rR5/
 https://eventul.com/it/i.php
 https://everycarebd.com/image222.png
+https://everycarebd.com/image3232.png
 https://f049g3h8.r.us-east-2.awstrack.me/L0/https:%2F%2Fjii.li%2FrTFRa/1/010f019d280c131a-81e827b5-57e5-48e1-ab01-2b3d8c5152e8-000000/ZbrldDyt6uYcS5K_OOmF-Vt9fI8=256
 https://fadehairucw.store/api
 https://familyriwo.su/fssdaw
@@ -945,8 +948,6 @@ https://gor.megaexdistribuidora.com.br/
 https://gouvtess.com/support/billing/
 https://graficaminascard.com.br/fd/Built_Stub.exe
 https://grupounetcom.eu/wp-content/languages/themes/S7ji81cR22n3.html
-https://grupounetcom.eu/wp-includes/sodium_compat/namespaced/Core/Poly1305/images/pgpan/
-https://grupounetcom.eu/wp-includes/sodium_compat/namespaced/Core/Poly1305/images/pgpan/action/1221.php
 https://guisamor.mx/wp-admin/user/pt/pagopa/log/msdpweb/
 https://guisamor.mx/wp-admin/user/pt/pagopa/log/panel/classes/processor.php
 https://guisamor.mx/wp-content/themes/pagopa/log/msdpweb/
@@ -1054,15 +1055,12 @@ https://improvement2025.2ix.de/wp-includes/sitemaps/dkoaiqe/zjyxl1e/e1uprwh/webz
 https://inautom.pw/login.php
 https://inayass.online/dDuiSrJ
 https://inbokala0.blogspot.com/
-https://indexhbhdxbybjas.appwrite.network/
 https://indexjjufj87jy-kfhhd.appwrite.network/
 https://infinitychessacademy.com/wp-admin/maint/ZeroBot_V8.php
 https://info-dplus.com/
 https://info-dplus.com/_internal/base/validation/collect_info.php
 https://info-dplus.com/app/login/
 https://info-dplus.com/app/login/form.php
-https://ing-verifica-id89163992-it.us.stackstaging.com/it/
-https://ing-verifica-id89163992-it.us.stackstaging.com/it/send.php
 https://ingitsedrvizio.justns.ru/pago/
 https://ingitsedrvizio.justns.ru/pago/msdpweb/index.php
 https://ingitsedrvizio.justns.ru/pago/msdpweb/send.php
@@ -1230,6 +1228,15 @@ https://loginssldns.bv-dienstleistungen.de/
 https://loginssldns.bv-dienstleistungen.de/2tYqfin01vqdCDHpxsxjtQwnuQPdKPl6ACT8wNkSTnbC8mHYv4CkbFKUbmkQEHT2ndQpEMc75vgmkaiT
 https://logln.hyswcy.com/
 https://lomapslld.sfo3.cdn.digitaloceanspaces.com/staispd.html
+https://lousatextil.cloudaccess.host/wp-content/themes/twentytwentyfour/jss/pago/msdpweb/card.php
+https://lousatextil.cloudaccess.host/wp-content/themes/twentytwentyfour/jss/pago/msdpweb/index.php
+https://lousatextil.cloudaccess.host/wp-content/themes/twentytwentyfour/jss/pago/msdpweb/loading3.php
+https://lousatextil.cloudaccess.host/wp-content/themes/twentytwentyfour/jss/pago/msdpweb/loading4.php
+https://lousatextil.cloudaccess.host/wp-content/themes/twentytwentyfour/jss/pago/msdpweb/phone.php
+https://lousatextil.cloudaccess.host/wp-content/themes/twentytwentyfour/jss/pago/msdpweb/send.php
+https://lousatextil.cloudaccess.host/wp-content/themes/twentytwentyfour/jss/pago/msdpweb/sms.php
+https://lousatextil.cloudaccess.host/wp-content/themes/twentytwentyfour/jss/pago/msdpweb/wait.php?p=PersonalInfo
+https://lousatextil.cloudaccess.host/wp-content/themes/twentytwentyfour/jss/pago/panel/classes/processor.php
 https://lrvpebfvi.dentalfraeszentrum.de///////////////////////vSYLGgIOEDVSCBH5YJVHVleeUZ6IsNX5YsCgAGinlguhMWUM7jkPPO2P
 https://lucid-buck.43-157-4-54.plesk.page/
 https://lucky2lucky.com/
@@ -1248,6 +1255,7 @@ https://mail12.xegzer.top/_maximus_oxy/validate.php
 https://mail12.xegzer.top/_maximus_oxy/zone/b3b32a2d422265cd25c3323ed0157f81/_adbe/login.php
 https://mail15.exactra.top/_maximus_oxy/phpsender.php
 https://mail15.exactra.top/_maximus_oxy/zure/b3b32a2d422265cd25c3323ed0157f81/_adbe/login.php
+https://mail18.exactra.top/_maximus_oxy/
 https://mail18.exactra.top/_maximus_oxy/phpsender.php
 https://mail8.wonderberg.online/gfc/index.html
 https://mailtiscaliitgestioneutenti.weebly.com/
@@ -1275,7 +1283,6 @@ https://manager-italian-informationgateay.telelot.fr/solution/8aa768927229218718
 https://manahehosting-aruba.agenziaentrateriscossione.cfd/cpanel/
 https://mandatechgroup.com/ai/
 https://mandelas-doubros28jan.appwrite.network/
-https://mannzup4.eu.org/wp-content/themes/twentytwentytwo/.chantan.html
 https://marauaunsteamworkspace.myclickfunnels.com/simple-blue-orange-squeeze?cc=012
 https://marcellomirto.com/i/
 https://marcrodriguezsteamw48a90.myclickfunnels.com/pago
@@ -1381,6 +1388,8 @@ https://necklacedmny.store/api
 https://nekxseo.de/smp/web/web/login.php
 https://nekxseo.de/smp/web/web/send.php
 https://new.express.adobe.com/webpage/0SRXFYu35cTN2
+https://newtalent.com.ar/home/teamdiPagoPA/log/msdpweb/index.php
+https://newtalent.com.ar/home/teamdiPagoPA/log/panel/classes/processor.php
 https://niculife-line.com/pago/msdpweb
 https://nihealthcoach.top/share/x/8614/cloud.php
 https://nihealthcoach.top/share/x/e1TCw3ioUUdLlrTupEFPFA8PQqNbUrLXmM28B8DmOLrF6uQGlUnRjBiL8wNU3bo6mZXdiSeUKoS65hwOrmFcnkTuLY05v21TskISKiggexcc22HqiHSqZHVZ/
@@ -1680,7 +1689,6 @@ https://psvocherholdin.ch/wp-includes/pago/pago/msdpweb/send.php
 https://psvocherholdin.ch/wp-includes/pago/pago/msdpweb/sms.php
 https://psvocherholdin.ch/wp-includes/pago/pago/panel/classes/processor.php
 https://pub-3bc1de741f8149f49bdbafa703067f24.r2.dev/la3.png
-https://pub-3bc1de741f8149f49bdbafa703067f24.r2.dev/la5.txt
 https://pub-e6f64f05a00d4309aec9508777bc43bc.r2.dev/img_181532.png
 https://q8onp8-c76vpr-myy19z-n0qzi280wd.s3.us-east-1.amazonaws.com/e8qerowkfdxuafg7g3jp2brh8chjq3
 https://qiutan-home.com/
@@ -1802,6 +1810,8 @@ https://sani3ds.com/support/billing/
 https://sani3ds.com/support/billing/app/submit.php
 https://sanitasupporto-it.com/support/billing/
 https://sanitasupporto-it.com/support/billing/app/submit.php
+https://sanitasupports.com/
+https://sanitasupports.com/support/billing/
 https://sanitatesserait.com/
 https://sanitatesserait.com/support/billing/
 https://sardweb.org/pagopa/log/msdpweb/index.php
@@ -1838,6 +1848,7 @@ https://scanned.page/u57zwZ
 https://scanned.page/zv9ZID
 https://scnv.io/9aGv
 https://scriptyprefej.store/api
+https://sctrack.sendcloud.net/track/click2/
 https://scurito.com/support/billing/
 https://scurito.com/support/billing/app/submit.php
 https://sdajhsdusajjwkdjkewdjejfekekffekkefedwde.b-cdn.net/s.html
@@ -1849,6 +1860,7 @@ https://secretosdenaturaleza.cl/it/pago/msdpweb/index.php
 https://secretosdenaturaleza.cl/it/pago/msdpweb/send.php
 https://secretosdenaturaleza.cl/it/pago/panel/classes/processor.php
 https://seedzkart.com/IT3.php
+https://seedzkart.com/wpit.php
 https://segmentpillowpeace.s3.eu-north-1.amazonaws.com/floecircle
 https://selfperserviziprofessionalieindividuali2829c.aylr120.com/
 https://selfperserviziprofessionalieindividuali2829c.aylr120.com/auction.php
@@ -1885,6 +1897,8 @@ https://sh-cp11.yyz2.servername.online/~taram987/wp-content/plugins/elementor/da
 https://sh-cp11.yyz2.servername.online/~taram987/wp-content/plugins/elementor/data/pagopa/log/msdpweb/send.php
 https://sh-cp11.yyz2.servername.online/~taram987/wp-content/plugins/elementor/data/pagopa/log/msdpweb/sms.php
 https://sh-cp11.yyz2.servername.online/~taram987/wp-content/plugins/elementor/data/pagopa/log/panel/classes/processor.php
+https://sh-cp3.dub1.servername.online/~sintr106/ts/wp-content/JSS
+https://sh-cp3.dub1.servername.online/~sintr106/ts/wp-content/JSS/
 https://sh-cp4.dub1.servername.online/~trans247/wp-includes_/cv/
 https://sh-cp7-au.yyz2.servername.online/~ocean316/.well-known/acme-challenge/pagopa/log/msdpweb/card.php
 https://sh-cp7-au.yyz2.servername.online/~ocean316/.well-known/acme-challenge/pagopa/log/msdpweb/index.php
@@ -2055,7 +2069,6 @@ https://sutergy.com/wp/pgit/ffee509b6169ce8/pg.php
 https://sutergy.com/wp/pgit/ffee509b6169ce8/phone.php
 https://sutergy.com/wp/pgit/ffee509b6169ce8/submit.php
 https://sutkart-45019094049.europe-west1.run.app/click/61529c
-https://systec.mg/itt/
 https://t.co/9uwzBaDZ6s
 https://t.co/D937xqA0qG
 https://t.co/eQ3JVz7Rky
@@ -2093,8 +2106,6 @@ https://tessr3ds.s3-website.us-east-2.amazonaws.com/
 https://testing.excellasoftware.com/i/
 https://thedigitalnomadpapa.com/pagopa/log/msdpweb/
 https://thedigitalnomadpapa.com/pagopa/log/panel/classes/processor.php
-https://thegrapeco.cam/
-https://thegrapeco.cam/Groknet/result.php
 https://thegrapeco.cam/netpack/result.php
 https://thegrapeco.cam/vinoline/result.php
 https://themossads.shop/c/QI0fRkZ7qODFSmZST8qEx2QRwgs1jy
@@ -2106,6 +2117,7 @@ https://tl6wt4-huk1h9-1pi95q-08eyy3pup8.s3.us-east-1.amazonaws.com/o3w6ttuwgh67l
 https://tmmarinebd.com/suite/sec/
 https://topaz-lori.pikapod.net/wp-content/web/
 https://tr.ee/HMfNTh
+https://tr.ee/MT3Aei
 https://tr.ee/eJbG1N
 https://tr.ee/o3SEiZimyg
 https://tr.ee/w9glJS
@@ -2137,6 +2149,7 @@ https://ujanaafrika.co.ke/web/pago/log/
 https://ujanaafrika.co.ke/web/pago/log/msdpweb/index.php
 https://ujanaafrika.co.ke/web/pago/log/panel/classes/processor.php
 https://ulitd.sbs/lfdh/Ko6UO
+https://ulitd.sbs/lfdh/pG5AwB
 https://ulitd.sbs/vpd/UG5hpt
 https://ulitd.sbs/vpd/oYEGE
 https://ultd.digital/ae/g92
@@ -2145,7 +2158,6 @@ https://ultd.digital/route
 https://ultd.digital/xnNdxStFmrec4HAgt38W
 https://umberships.shop/c/Xcyj491OB8jo9wKE09
 https://umberships.shop/c/Xcyj491OB8jo9wKE09/create
-https://update-bpm.it/profile
 https://upgraded-palm-floppy-xwv9.vercel.app/
 https://upgraded-palm-loffy-ttnu.vercel.app/process_f
 https://uqkiurpp.formester.com/f/xaCSWEpXh
@@ -2156,8 +2168,6 @@ https://usaxcvmnzweroiumijslmnbvczawd009.wpdevcloud.com/wp-admin/med/517ee604142
 https://usaxcvmnzweroiumijslmnbvczawd009.wpdevcloud.com/wp-loa.html
 https://useclick.io/J94gTPWD
 https://uswebzoomus.com/zoom
-https://uu.edu.et/italy/PAG0-PA/log/msdpweb/index.php
-https://uu.edu.et/italy/PAG0-PA/log/panel/classes/processor.php
 https://v0-authentication-page-nine.vercel.app/
 https://v4va8a-j0101c-1q17ra-qj9i4abv86.s3.us-east-1.amazonaws.com/vryx6g8rwracobmq8spr3vpt1yknld
 https://ventureaxis.click/r2.php
@@ -2182,6 +2192,7 @@ https://view.page/7iz0CC
 https://view.page/89BWxy
 https://view.page/8I6QaI
 https://view.page/9FEYOn
+https://view.page/9YU1dJ
 https://view.page/CCA0Xa
 https://view.page/CeW1wm
 https://view.page/J7mXO1
@@ -2314,6 +2325,7 @@ https://wix-006.blogspot.kr/
 https://wix-007.blogspot.it/
 https://wix-007.blogspot.qa/
 https://wix-plans.vercel.app/
+https://wmluz42309.systeme.io/proxy/request/5611713ae00251ee71a670db98af0521da072
 https://wordpress-206733-0.cloudclusters.net/ltm/pagopa/log/msdpweb/index.php
 https://wordpress-206733-0.cloudclusters.net/ltm/pagopa/log/panel/classes/processor.php
 https://wordpress-208520-multadellastrada.cloudclusters.net/1/index.html
@@ -2426,6 +2438,7 @@ https://www.kingkariuki.com/adiv-clienti
 https://www.kingkariuki.com/alava_html_clienti
 https://www.kingkariuki.com/re-clienti
 https://www.lenesi.com/2WRC41L/3HZCBS1S/
+https://www.lepalmelavinio.it/.tmb/index.html
 https://www.lpinnovationsphere.com/2W1Q1KK/37T2Z339/
 https://www.mediafire.com/file/8kgybc0crbhaxfs/vNWWOx218.bin/file
 https://www.mediafire.com/file/v89naknw3e1eib0/Rdstrmpen.mix/file
