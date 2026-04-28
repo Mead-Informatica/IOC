@@ -2239,7 +2239,6 @@ support.goodlog.site
 supportintessaclient.ha025.t.mydomain.zone
 supporto-irtm8.freedynamicdns.org
 supporto-w8sky.servegame.com
-survey-smiles.com
 sushicool.net
 sutergy.com
 sutkart-45019094049.europe-west1.run.app
