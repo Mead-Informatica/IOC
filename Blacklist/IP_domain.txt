@@ -2434,7 +2434,6 @@ update-release-version-for-android.ai-ae.io
 update-release-version-for-android.com-ar.me
 update.totokapp.info
 upload.crash-report.com
-urlsand.esvalabs.com
 us-04web-zoom.id-ar.net
 us05web-join-zoom-meeting.id-ar.ca
 user-notification-wix.shop
