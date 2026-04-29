@@ -101,6 +101,7 @@ ac-im.cc
 ac-us.cc
 acc-hot-mail.hm-en.cc
 acc-mn.info
+acc-pro-login.net
 account-extranet-signin.com
 account-live.com-ln.info
 account-live.com-service.info
@@ -140,6 +141,7 @@ agenzia-entrate.com
 agenziadelleentrate.live
 agenziaentrategov.com
 agenziaentrateriscossione.cfd
+agenzientrate.com
 aggiornamentoklarna.sviluppo.host
 aging.entity-me.online
 agusp.id
@@ -160,6 +162,7 @@ alert-new.id-en.io
 alet-new.me-en.io
 alet-uebu.com-me.io
 aljarahcarwash.com
+alkon.rs
 alperu.top
 alpha-visualize.me-ar.io
 alr-res.com-en.io
@@ -384,6 +387,7 @@ bot.en-ir.org
 botim-app.pro
 botim.ai-ae.io
 bpm-it.top
+bpssrlit.com
 bqj-1-otter-bb9efe.netlify.app
 bqj-4-sorbet-b9e388.netlify.app
 brahimhakimisteamwo98b07.myclickfunnels.com
@@ -460,6 +464,7 @@ chronicle-log.com
 ci-flowise.me-ar.io
 ciao-kalrna.com
 cicd.me-ar.io
+cintureartigianali.it
 cjiminjus.mg
 cjtjkj45nkejndfk3j4lkfelfwefwef.tication.net
 ck02-fb1ef20944-89b8cbf0.ar-id.co
@@ -597,6 +602,7 @@ ctscmpcome.cc
 cyclevocabulary.fra1.digitaloceanspaces.com
 d-df-dfd-sddgfssdf.ar-me.co
 d01273b406.nxcli.io
+d01928983z4.hopp.to
 d3f8x4frhkvck8.cloudfront.net
 d9.datastatistics.nl
 d96ff356-4b58-440d-bc5c-4105f95e37da.ilability.net
@@ -713,6 +719,7 @@ dsakjjsadkdahfdsijjhndsjghdsfuhdfjdfansjhfaduewjewfknmewfewf.b-cdn.net
 dsbjbjhb5teufyh85ybf74fbufb7tuvfbf.com-ae.org
 dsjkdsfjkdjskdfjirjjree.b-cdn.net
 dslklkdflvksdlmdf.b-cdn.net
+dspaze.sfo3.cdn.digitaloceanspaces.com
 dssdgsdfsdf.ms-mng.ac
 dub1.servername.online
 duct-master.com
@@ -890,7 +897,6 @@ ftp.abcebikes.com
 ftp.co-en.app
 ftp.com-auth.cc
 ftp.com-en.cc
-ftp.corwineagles.com
 ftp.crescentegramas.com.br
 ftp.duct-master.com
 ftp.en-me.cc
@@ -1104,6 +1110,8 @@ info-dplus.com
 info-sanitaria.com
 info.user-notification-wix.shop
 infor.mation.re
+infotessara-sanitaria.com
+infovszp-sk.com
 inmbau.com
 inputimprovement.tor1.digitaloceanspaces.com
 installdevicepopular.autos
@@ -1272,6 +1280,7 @@ latinoclx.lat
 lcloud.com-ar.info
 lcloud.com-service.info
 le-ar.me
+leadelevate.ca
 leadszyx2402.com
 legumesvilarica.com.br
 lenesi.com
@@ -1780,6 +1789,7 @@ paggoopa687.b-cdn.net
 paggopa2303.b-cdn.net
 paggopasccvs.b-cdn.net
 pagmentomultasteamw728ae.myclickfunnels.com
+pago-pa-app-it.click
 pago.amovaceuillesuive.com
 pagodhsuwd.b-cdn.net
 pagolisad.com
@@ -1793,8 +1803,10 @@ pagopa-regolare-direttamente.3dfrezovanie.eu
 pagopa-regolare-direttamente.fluwia.cz
 pagopa-service-gov-it.com-auth.info
 pagopa-team-account-att-infos122.codeanyapp.com
+pagopae.live
 pagopagov.eu
 pagopahome.sviluppo.host
+pagopainfosp.hosted.phplist.com
 pagozizalinbghiha.myclickfunnels.com
 pagpaejicercv.b-cdn.net
 paid.wb2mers.info
@@ -1821,6 +1833,7 @@ play.google.svr-drive.com
 play.share.svr-drive.com
 playstore-unicaja.com
 pmdk.org
+pnz86o-inxhis-wm62bj-gc9b61w21a.s3.eu-west-3.amazonaws.com
 podsjswdej.b-cdn.net
 policianacional.gay
 polosan.resecio.de
@@ -1982,6 +1995,8 @@ s-plan74258.quicknestling.co.uk
 s-plan79251.oflandand.co.uk
 s-plan81927.safeandsecuring.co.uk
 s-portel.zm-me.co
+s-prestige40606.pillrs.co.uk
+s-prestige93564.gyltd.com
 s.com-info.io
 s.kemkes.go.id
 s1128529.ha008.t.mydomain.zone
@@ -1992,6 +2007,7 @@ s1134030.ha018.t.mydomain.zone
 s1150236.ha023.t.mydomain.zone
 s1159036.ha003.t.mydomain.zone
 s1172173.ha009.t.mydomain.zone
+s1172787.ha003.t.mydomain.zone
 safe.securesiteshield.com
 safeapk.xyz
 sakdhfjshfiurgjknsdbjjnejfhjgfn.b-cdn.net
@@ -2057,6 +2073,7 @@ server.id-en.me
 servername.online
 service-pagopa-gov-it.com-auth.info
 serviceinfo.cc
+servitkarn.justns.ru
 serviziopagopagov.sviluppo.host
 servstat.nyc3.cdn.digitaloceanspaces.com
 sfakjhfsdiudfaiudsjfhdfshdfhdsfjhdsfuydfyshuvhfsyuvcxgvdsrff.b-cdn.net
@@ -2246,6 +2263,7 @@ stylegeneration.ma
 subito.order-information.live
 sulekhanotifications.com
 sumaris-imonadalosra9430.wpdevcloud.com
+summer-block-10a3.mohammadrezamoradi-m5m.workers.dev
 sumunvcxzmoueasmweromnzxaosunzmcvxs8832.wpdevcloud.com
 sumup-app.logg-inn-id-tv2.online
 sumuparea.sviluppo.host
@@ -2283,6 +2301,7 @@ team.autoscuolamolinella.it
 teazaz.com
 tehisdjsd.ar-info.co
 telegram.com-en.io
+telvgier.cc
 temp.swtest.ru
 temple-university-zoom-meeting.ai-ae.io
 tess.me-ar.io
@@ -2373,10 +2392,12 @@ trusted-device-apple.en-id.net
 trusted.app-info.app
 trustlayer.cfd
 tsi-farmacia.com
+tuzere.com
 tvstransporteylogistica.com
 twitch9929312.com-ln.info
 tyskw-appleid.com-auth.cc
 u106068312.ct.sendgrid.net
+u106347715.ct.eu.sendgrid.net
 u22374103.ct.sendgrid.net
 u29212849.ct.sendgrid.net
 u44395984.ct.eu.sendgrid.net
@@ -2394,6 +2415,7 @@ uersidkhjxbcnkawehfgysdhkjzchgvfhajs.blogspot.com
 ufuzzssssm.verify-apple.com-info.io
 uiedhu.justns.ru
 uiosfkjdhbvjvklidusajkhlidulsksdgd.blogspot.com
+uk.heu.pdd.mybluehostin.me
 uk02web-zoom.ar-me.io
 uk05web-zoom.com-cc.io
 uk05web-zoom.me-ar.cc
@@ -2412,6 +2434,7 @@ update-release-version-for-android.ai-ae.io
 update-release-version-for-android.com-ar.me
 update.totokapp.info
 upload.crash-report.com
+urlsand.esvalabs.com
 us-04web-zoom.id-ar.net
 us05web-join-zoom-meeting.id-ar.ca
 user-notification-wix.shop
@@ -2423,6 +2446,7 @@ v1.en-info.live
 v1.sgnlapp.info
 v2.en-info.live
 v2.sgnlapp.info
+v3secu.com
 v4va8a-j0101c-1q17ra-qj9i4abv86.s3.us-east-1.amazonaws.com
 v6.rocks
 valfanto.com
@@ -2674,6 +2698,7 @@ www.tastesaporimediterranei.it
 www.techserver.online
 www.thesisclaw.xyz
 www.trabzonlojistik.online
+www.tuzere.com
 www.urbanbeams.com
 www.urbo.pro
 www.verdetrk.com
@@ -2694,6 +2719,7 @@ www.zirconorangemedia.top
 x-eperia.co
 xIInXYtigu2F8S246pSbw4rACMdikb6kGSvEW9o9.lamaisongaia.com
 xbwzeasg.sgnlapp.info
+xentaro.cyou
 xk.linedata.sbs
 xn--obsugaklienta-yhc.com
 xnwhrsssssm.ssverify-apple.com-info.io
