@@ -1770,6 +1770,7 @@ org-ar.me
 org-ar.net
 org-status.nl
 orgo.cc
+orixoilcorporation.com
 ossaban.site
 otptrade.world
 ouedfean.resecio.de
@@ -2171,6 +2172,7 @@ snk3ds.com.s3-website-us-east-1.amazonaws.com
 snowbackagain.com
 soccer966.s3.ap-south-1.amazonaws.com
 solutionclientdesk.digital
+solutionsystechoffshoreservicesgroup.sterlibcbngcommerce.vu
 sopdarwox.jdevcloud.com
 sowemoveahead.top
 speedsafeclean.autos
