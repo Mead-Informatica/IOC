@@ -254,6 +254,7 @@ appleids-manage.ar-id.cc
 appleids-trusted-number.ar-id.cc
 appleids-truted-number.org-ar.net
 appleids.org-ar.net
+applemorningkangaroo.s3.eu-north-1.amazonaws.com
 application-dns935782-managerarea.nocciolasiciliana.it
 appstoreios.com
 appupdate.ai
@@ -319,6 +320,7 @@ auts.autsd.top
 autsd.aosit.top
 autsd.top
 avelinadasilveira.com
+avia.kandagar.com
 avianca.sxjgo.cc
 avvioavvio.hosted.phplist.com
 awxwaser90t.mydomain.zone
@@ -337,6 +339,7 @@ backup.sgnlapp.info
 bafybeid4kk7egoo3bf5gsscbin6t46b4h4isjglwxxepvalc7ct7z7i2ma.ipfs.dweb.link
 bafybeihzgwq4w3lxijj5lui5j57bxivaclh75nzw52rvjh3co5dxpv5vpu.ipfs.dweb.link
 bagoincgso.cloudaccess.host
+banca-finint.com
 bandafrancescocurcio.it
 barberspot.in
 baykndenim.com
@@ -384,6 +387,7 @@ breprmdk.atl1.cdn.digitaloceanspaces.com
 brigadeirobeach.makeup
 brihmais.qzz.io
 broadcase.id-en.me
+brotherhateline.xyz
 brt.vieemz.buzz
 bsoftsn.com
 btbmc.com.bd
@@ -396,6 +400,7 @@ buyit.ae
 bvkfztg.me-relay.org
 bytzgo.com
 byzant.sk
+c-firebase-google.co
 c.review-ar.co
 c0a-3-salamander-ed5625.netlify.app
 c0ac71c4-276f-46a4-a7fe-f062c40b47e6.mn-id.cc
@@ -424,6 +429,7 @@ cariitas.it
 carlyleleeacademy.org
 carrlossalvador1775830327307.2362216.meusitehostgator.com.br
 casaderepousovivavida.com.br
+casasubatuba.com.br
 catalogo.castrouria.com
 cc-ar.co
 cdshfis57945tjfkgdfgdf.fullrestores.re
@@ -433,6 +439,7 @@ centerapprv.dynip.org
 centrale-rimborso.sbs
 cert12-man.vitalite-beaute-feminite.com
 cfysfsnt4p4nzbi-7650.twil.io
+channel.paragon.online
 chantankanhna.clickfunnels.com
 cheapbeachchair.store
 chec-res.me-id.cc
@@ -466,6 +473,7 @@ cli38798d7983.connect-signal.org
 click.hatemotherearly.monster
 clickredirectors.org
 client.com-ae.org
+client9.c-firebase-google.co
 clients.com-ae.org
 clients.google.svr-drive.com
 clients.share.svr-drive.com
@@ -490,6 +498,7 @@ cloud-renewal.com
 cloud278538.mywhc.ca
 cloudaccess.host
 cloude-manage.ids-io.me
+cloudflare-workers-autoconfig-it-056.diethelm-wilke.workers.dev
 clubline.cc
 cntflksdlkfghdf.tication.net
 co-en.app
@@ -618,6 +627,7 @@ denzay.eu
 depamdls.atl1.cdn.digitaloceanspaces.com
 descarga-smtr.net
 desentupidora.pro.br
+dessous-gh.de
 dev.com-ae.org
 dev.com-info.io
 dev.en-info.live
@@ -685,6 +695,7 @@ dspaze.sfo3.cdn.digitaloceanspaces.com
 dssdgsdfsdf.ms-mng.ac
 duclongetc.com
 dwwbdgjdyvt.privacy-ar.com
+dy7qpqvgch.vertexnook.com
 e257988351.nxcli.io
 earnm.net
 eatskorea.com
@@ -704,6 +715,7 @@ ecomservices.cc
 ecupadel.com
 edu.zcan.eu
 educt.shop
+eedwo.purecashent.com
 egbfdg545rgdfg.en-info.live
 egfdsubu.es
 ehdz.sintelfilm.com
@@ -713,6 +725,7 @@ elemintur.com
 eliteaircargo.co.ke
 elitegrowthhub.buzz
 elsantermo.ro
+elstearsecurea.hosted.phplist.com
 emailspro.store
 emaisboletos.com
 emiliano.castelancarpinteyro.com
@@ -879,6 +892,7 @@ fzbidxatfao.privacy-ar.com
 g1pgrvlkqz.wpdns.site
 g45ergt-vvv-0044.atl1.digitaloceanspaces.com
 g8agw0kd0f-n0jgaa-m46mk7.s3.dualstack.us-east-1.amazonaws.com
+gadelli.com
 gahpkwww.join-meet.mn-id.cc
 gapo.rako9jabus1.com
 generalspacenter.com
@@ -895,6 +909,7 @@ giapargentina.online
 gifted-proskuriakova.162-62-231-2.plesk.page
 givestonecapital.com
 gleaming-asset.com
+gliamicidelcongordc.org
 gmail.adianjing.com
 gmflqsssssssssverify-apple.com-info.io
 go.sparkpostmail2.com
@@ -910,6 +925,7 @@ grafana.logs.re
 grameenasevakendra.com
 graspphilosophy.lon1.digitaloceanspaces.com
 green59.s3.ap-south-1.amazonaws.com
+grgroup.com.pk
 grth-mmm-0044.sfo3.digitaloceanspaces.com
 gruporoyale.net
 gscandelu.it
@@ -958,6 +974,7 @@ hostmaster.idate.me
 hostmaster.logs.re
 hot-acc-mail.hm-en.cc
 hotel-menu.ms-mng.ac
+houseflyhatrack.shop
 hqi.pasinicostruzioni.it
 hsgeowvi.com
 ht-id.me
@@ -1038,6 +1055,7 @@ iforgot-applehelp.com-ar.info
 iga.gov-bh-mng-rec.le-ar.me
 ikmaakjouwwwebsite.nl
 ilability.net
+ilnocciolo.com
 ilovepng.info
 imanage-rev.acc-mn.info
 imanage.com-ar.me
@@ -1204,6 +1222,7 @@ kaheisuhabsteamwork948ee.myclickfunnels.com
 kajkjsa.j34idf.ar-id.cc
 kalrna-ciao.site
 kamertoni.it
+kandagar.com
 kanmktabof2.blogspot.com
 karadmosseriezentirumm-roedelheimm.com
 karlankus.com
@@ -1217,6 +1236,7 @@ kkkhhhnnn.com
 kkkwazhbwmwww.ft-cll.logs.re
 klanra.it.com
 klarna.support-info.im
+klarnait.support-info.com.es
 kozzchicken.com
 krengtest.se
 kreon.com.mx
@@ -1302,6 +1322,7 @@ lucky2lucky.com
 lungrunipit.weebly.com
 luxurytouch.ae
 lx-yindu.top
+lxrrxl.ydns.eu
 m-s-info.hm-en.cc
 m.comusted-device-apple.com-info.io
 m.en-id.me
@@ -1413,6 +1434,7 @@ mail.me-mng.cc
 mail.me-relay.org
 mail.message-apple.com
 mail.mfadata.cc
+mail.miniorangeman.com
 mail.mn-id.cc
 mail.ms-mng.ac
 mail.ms-storedata.de
@@ -1536,6 +1558,7 @@ mofa-gov-bh.ms-storedata.de
 mofa-gov-bh.storemydata.re
 mooneybank-it.us.stackstaging.com
 mooneyitalia.sviluppo.host
+moreiraadvogados.com.br
 mpl.jcha.com-us.io
 mqeiowkpsfdsdkofdskpf.lol
 ms-call-manage.mfadata.cc
@@ -1579,6 +1602,7 @@ mziyytm5ytk.ahroar.com
 mzkkajh4rh3if9f3j4.re-ac.cc
 n26-accediqui.app
 n26-france.app
+n26-verifizierung.com
 nabda.wpenginepowered.com
 naompalsgto.atl1.cdn.digitaloceanspaces.com
 natim.com-ln.info
@@ -1606,6 +1630,7 @@ news-jpost-com.id-en.net
 news-reuters-com.id-en.net
 newsite.ccit.hn
 newsonline.ac
+newsrecuritymangement-servrbnl.bswb168.com
 newupdate.app
 neww.com-auth.cc
 neww.com-ln.info
@@ -1728,15 +1753,18 @@ pagopa-gov-it.patchjs.com
 pagopa-gov.site
 pagopa-service-gov-it.com-auth.info
 pagopa-team-account-att-infos122.codeanyapp.com
+pagopa.kuwait-postdelivery.org.uk
 pagopa.supportsend.online
 pagopa06may2026.blob.core.windows.net
 pagopae.live
 pagopagov.eu
 pagopainfosp.hosted.phplist.com
 pagopayment.onl
+pagovopa.com
 pagozizalinbghiha.myclickfunnels.com
 paid.wb2mers.info
 panel365webdocumento.org
+paragon.online
 parcel-information.en-id.net
 partner-marketing.bitdefender.com
 pasini.eu
@@ -1754,8 +1782,10 @@ pending-office.id-ar.ca
 permanent-infor.mation-ae.re
 peromd.lon1.cdn.digitaloceanspaces.com
 pgoopacemit.firebaseapp.com
+phphostings.com
 piaystore.org
 pilarplaygame.com
+piovau.com
 play.google.svr-drive.com
 play.share.svr-drive.com
 playstore-unicaja.com
@@ -1800,6 +1830,7 @@ psc-15-conkies-d25b46.netlify.app
 psc-16-profiterole-5ef4a1.netlify.app
 psc-17-gumdrop-78d7ce.netlify.app
 punctual-azure-bison.31-22-7-7.cpanel.site
+purecashent.com
 pvmlfynopdzfgyj.ubeagle.com
 pwndrop.llcsintez-n.org
 pxemgvuslqassets.sgnlapp.info
@@ -2187,6 +2218,7 @@ superior-speed-effective-device.autos
 superset-production.me-ar.io
 superset.me-ar.io
 superset.uat.me-ar.io
+support-info.com.es
 support-info.im
 support.com-ar.me
 support.goodlog.site
@@ -2195,6 +2227,7 @@ supporto-w8sky.servegame.com
 supportointesasanpaolo.alaseelcleaningservicesabudhabi.ae
 supportopagopagov-it.horizont25.ae
 supportpag.temp.swtest.ru
+surelsrecuritymangement-protctbnl.pasitenetwork.com
 surpluslink.co.uk
 sverify-apple.com-info.io
 svgt209.serverneubox.com.mx
@@ -2385,6 +2418,7 @@ verify-login.en-info.live
 verify-mail-authn.tication.net
 verify-mofa-gov-bh.le-ar.me
 verify-rev.ms-mng.ac
+vertexnook.com
 vf.aiss.ma
 vhpniqnpchepkxqbsfcjcpanel.ar-id.co
 viper505-001-site1.mtempurl.com
@@ -2638,6 +2672,7 @@ www.zirconorangemedia.top
 www.znisjinak.cz
 www.zorvixhub.xyz
 www.zxlj-adguard.pro
+wwwareaclientimanage.gliamicidelcongordc.org
 xbwzeasg.sgnlapp.info
 xentaro.cyou
 xk.linedata.sbs
