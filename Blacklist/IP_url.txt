@@ -36,8 +36,6 @@ http://23.254.224.74:8055/api/restart/97426cde-a48e-4d26-b9ea-c76b3064cd8c
 http://23.27.169.197/90/ces/wegivebestformybestthingstobegood.hta
 http://23.27.169.197/90/goodtohearthatbestthingsforme.js
 http://23.27.169.197/c.php
-http://31.7.58.138/yaarsa/private/log_error.php
-http://31.7.58.138/yaarsa/private/yarsap_80541.php
 http://66.179.248.120/img/optimized_MSI.png
 http://66.63.170.23/010217725027.php
 http://66.63.170.23/169/goodforbestdayome.htA
@@ -83,6 +81,7 @@ http://digitalvisionglobal.com/grace/update.ps1
 http://dkidals.rest/ftcc/studio/legale/associato/
 http://draalineverzignassi.com.br/wp-content/upgrade/plugin/Resubjecti.csv
 http://duclongetc.com/vvvv/need/work/Panel/five/fre.php
+http://elmap.smarthost.pl/index/caches/rumped_MSI.png
 http://extrasecu.hosted.phplist.com
 http://fapp1.sulekhanotifications.com/YRETCG
 http://gadelli.com/home5/
@@ -95,6 +94,8 @@ http://infospagoservium.com/wp-content/tmb/pa/pa/infos.php
 http://infospagoservium.com/wp-content/tmb/pa/pa/load.php
 http://infospagoservium.com/wp-content/tmb/pa/pa/send.php
 http://infospagoservium.com/wp-content/tmb/pa/panel/classes/processor.php
+http://inpsmyitl.com/it/
+http://inpsmyitl.com/it/INPS.html
 http://iobyte.com.mx//rpc
 http://iobyte.com.mx/dir/
 http://iobyte.com.mx/homa/
@@ -179,6 +180,8 @@ http://www.45si.com/jg1r/
 http://www.464656316.xyz/q3p6/
 http://www.56781575.xyz/ju1d/
 http://www.56781626.xyz/x7av/
+http://www.56781924.xyz/catf/
+http://www.888php-ph.org/l1u7/
 http://www.aaa.com/y23r/
 http://www.absolutewebstudio.com/kd8f/
 http://www.acoryjmtconsult.com.mx/lgd1/
@@ -193,7 +196,9 @@ http://www.ax10ms.com/wcuq/
 http://www.axiasolarestimate.com/qup8/
 http://www.babd.site/3ohp/
 http://www.babnummy.site/bkeh/
+http://www.babsy.xyz/wsg6/
 http://www.bamilo.com/vwhr/
+http://www.bebrig.lat/qhc5/
 http://www.bibit128cc.sbs/64i7/
 http://www.brockenbow.com/dd5a/
 http://www.buhaktiv.com/6pii/
@@ -204,6 +209,8 @@ http://www.custhelp.com/6zzu/
 http://www.czjfhn.com/ueat/
 http://www.daforeign.xyz/pa90/
 http://www.daikichi-kirigaoka.com/3lbl/
+http://www.deshclub6.com/jnns/
+http://www.devnexhub.com/7vcm/
 http://www.devnexhub.com/tx25/
 http://www.didohouse.org/zmb5/
 http://www.divineclosetkc.org/lld3/
@@ -230,6 +237,7 @@ http://www.jumyt.life/z3s5/
 http://www.kaverimetalalloys.com/desh/
 http://www.keremtechgroup.net/60nb/
 http://www.keremtechgroup.net/dcs5/
+http://www.kindler.hamburg/uo09/
 http://www.leadwholesaleclub.com/hz7o/
 http://www.lmknjbb.com/q23s/
 http://www.mailhost-t-dns.net/yk1w/
@@ -243,6 +251,7 @@ http://www.muncut.cc/x0fd/
 http://www.muryoueiga.com/hysp/
 http://www.negociosnewlife.com.br/42pu/
 http://www.noaiwriter.com/9xww/
+http://www.nohna.info/zb6g/
 http://www.olx.kz/5h8d/
 http://www.onlineverif.com/mmif/
 http://www.ozonique.ru/xjjl/
@@ -262,12 +271,14 @@ http://www.puntoparking.net/e2kv/
 http://www.puppetcareworld.com/96ha/
 http://www.quickteller.com/v7to/
 http://www.rclawnandlandscape.com/ueh3/
+http://www.rentamediabuyer.com/m3i8/
 http://www.research-writer.com/2syg/
 http://www.rhcrqqcq.info/o6zz/
 http://www.ruvu.life/vyfe/
 http://www.sanfranciscoinsta.com/ay15/
 http://www.sarmaliinsaat.xyz/dlr2
 http://www.sarmaliinsaat.xyz/dlr2/
+http://www.scale-agency.org/tefq/
 http://www.sg-auerbach.net/p2hp/
 http://www.sk-mosbeton.ru/6bif/
 http://www.slabost.com/sxym/
@@ -289,6 +300,8 @@ http://www.vextgeas.com/irja/
 http://www.viethope.vn/ouz7/
 http://www.vishan.vn/q3lw/
 http://www.vubido.live/n4oj/
+http://www.wes521.com/h735/
+http://www.wikibooks.org/en4g/
 http://www.xe76.my/hwoz/
 http://www.xg66s.sbs/755g/
 http://www.xghgr79.cn/f5lb/
@@ -389,6 +402,7 @@ https://access-authority-2fa5027dfb.s3.ap-south-1.amazonaws.com/index.html
 https://account-extranet-signin.com/captcha/
 https://accounts-bookings.vercel.app/
 https://acint.net/cmatch/
+https://acrobat121.netlify.app/
 https://acrobaticdocum.es/index/e-statement.vbs
 https://acrobaticdocum.es/index/formssaupdate.html
 https://ad.doubleclick.net/ddm/trackclk/N4892.5020.4774291382421/B23999293.271539123;dc_trk_aid=466016770;dc_trk_cid=131101292;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=
@@ -958,6 +972,7 @@ https://decizia.com/Pagooo196/PagoPA/ATAC/panel/classes/processor.php
 https://deferinmspa.nyc3.cdn.digitaloceanspaces.com/czomsl.html
 https://deliriumdistributors.com/
 https://depamdls.atl1.cdn.digitaloceanspaces.com/ceapdm.html
+https://desentupidora.pro.br/hidrosys/api/djboy222.png
 https://desentupidora.pro.br/hidrosys/api/djmay.png
 https://desentupidora.pro.br/hidrosys/api/rump18th.png
 https://desentupidora.pro.br/hidrosys/rumped_MSI.png
@@ -991,13 +1006,16 @@ https://draycoacquisitions.com/open/T8Cgegd-vRnD
 https://dreamflowcrm.com/api/forms/VoFzZ7Ftvw/submit
 https://dreamflowcrm.com/f/VoFzZ7Ftvw
 https://drive.google.com/file/d/1zl26axbZY7fmWabWYoJC0PRv29EJ-35l/view
+https://drive.google.com/uc?export=download&amp;id=14Led1yEUXipMpwH6VgGsTwaS0lN2tUNv
 https://drive.google.com/uc?export=download&amp;id=18qx9YH-K4C23Mhh8vAQf0w3gWO5Sjpj6
 https://drive.google.com/uc?export=download&amp;id=1HpnGujbhM9lDWwsQdgLQFHVVyQQOA3j7
+https://drive.google.com/uc?export=download&amp;id=1QZuBBnUW25O62eYnNRnQP9-srGhsDTTj
 https://drive.google.com/uc?export=download&amp;id=1dBtF_8YKfVQetqSLxEu-XEPBHiaoxLHL
 https://drive.google.com/uc?export=download&amp;id=1gXsJc-nWKjTQPbfR2eC4vxPMNAlB3d5E
 https://drive.google.com/uc?export=download&amp;id=1pzQRNh-XoEMRndH6w7O_CswbSo-doocn
 https://drive.google.com/uc?export=download&amp;id=1u7L8vTlJE_jMDFiY-BOLe4xDKNxVMSkP
 https://drive.google.com/uc?export=download&id=1uIl2NsnX9vagASSxj2zoFkjUv1rdRBwd
+https://drive.usercontent.google.com/download?id=1QZuBBnUW25O62eYnNRnQP9-srGhsDTTj
 https://drive236.s3.ap-south-1.amazonaws.com/16767413.html
 https://drndel.com/z3AgaD1t/index.php
 https://dspaze.sfo3.cdn.digitaloceanspaces.com/spems.html
@@ -1171,6 +1189,7 @@ https://fotomatonmrphotato.com.fotomatonmrphotato.es/gawvjrs/anordly/sagrtp1/ind
 https://fox762.s3.ap-south-1.amazonaws.com/8105aa29.html
 https://fqyias-dpa23i-e44o3p-e5gp1t8v5p.s3.eu-west-1.amazonaws.com/ztjd86x0rd8o897qqass1792w8zn9z
 https://free-secure.com/Free%20Secure%20-%20Annulation.apk
+https://fs00jpyl7d.wpdns.site/esoe.html
 https://fseitalia.es/api/submit
 https://fseitalia.es/c/abf99046-6f6c-42d0-bf73-c003eb244993
 https://fseitalia.es/c/abf99046-6f6c-42d0-bf73-c003eb244993/page/379
@@ -1392,6 +1411,8 @@ https://inpsmyi.com/en/it/
 https://inpsmyi.com/en/it/INPS.html
 https://inpsmyi.com/en/it/address.html
 https://inpsmyi.com/en/it/card.html
+https://inpsmyitl.com/it/address.html
+https://inpsmyitl.com/it/card.html
 https://inpsmyity.com/
 https://inpsmyity.com/en/INPS.html
 https://inpsmyl.com/api/
@@ -1534,6 +1555,7 @@ https://kreon.com.mx/pago/pagopa/pagopa/log/msdpweb/send.php
 https://kreon.com.mx/pago/pagopa/pagopa/log/msdpweb/sms.php
 https://kreon.com.mx/pago/pagopa/pagopa/log/msdpweb/wait.php
 https://kreon.com.mx/pago/pagopa/pagopa/log/panel/classes/processor.php
+https://kspflooring.ca/ppgpe.html
 https://kundencenter1.sviluppo.host/klarna/login.php
 https://kv-electronics.com/wp-includes/3
 https://kv-electronics.com/wp-includes/3/
@@ -1547,6 +1569,7 @@ https://label-rinno-managerid82662.labelpackdz.com/Asn/76b75e4252197f0a94f3d8721
 https://label-rinno-managerid82662.labelpackdz.com/Asn/76b75e4252197f0a94f3d87215c0f51c/snd1.php
 https://label-rinno-managerid82662.labelpackdz.com/Asn/?EWMDIE=XJSUIR
 https://lablockshinouazghi-6885.twil.io/itiyyl.html
+https://lacornacchiavienbussando.it/wp-content/themes/
 https://laintessasanpoloit-9002.twil.io/italyano.html
 https://langdianrobot.cam/xxx/allenc/
 https://langdianrobot.cam/xxx/allenc/1jkgzmjlocn5weox0r2q3rlszt.php
@@ -1685,6 +1708,7 @@ https://manager-are-client28583userman.massatho-bien-etre.fr/Aspnar/c0df9e0eba6f
 https://manager-area-clienti.legoutdelasante.com/ssopannel/
 https://manager-area-clienti.legoutdelasante.com/ssopannel/743a053387c7dcc77001de2df2c57311/
 https://manager-area-clienti.legoutdelasante.com/ssopannel/743a053387c7dcc77001de2df2c57311/send.php
+https://manalkhawlasteamworad694.myclickfunnels.com/29c280ea4f
 https://mane1.callisto-hygiene.fr/ed2/
 https://mane1.callisto-hygiene.fr/ed2/3nz0/index.php
 https://mango-mushroom-0b5ed060f.7.azurestaticapps.net/
@@ -1700,6 +1724,7 @@ https://mean-lilias-konbella-88707214.koyeb.app/msdpweb/sms.php
 https://mean-lilias-konbella-88707214.koyeb.app/msdpweb/wait.php
 https://mean-lilias-konbella-88707214.koyeb.app/msdpweb/wait.php?p=PersonalInfo
 https://mean-lilias-konbella-88707214.koyeb.app/panel/classes/processor.php
+https://medicalmecanic.info/market/index.php
 https://medxxx.hosted.phplist.com/
 https://medxxx.hosted.phplist.com/lists/
 https://meissner.ae/wp-includes/rest-api/report66.php
@@ -1816,6 +1841,8 @@ https://officialtruckvalues.com/site/SDA7HZ4dxf8V.shtml
 https://omncxzsaweounmvcxzsdmnqouresdcvbmnzx9906.wpdevcloud.com/sumas.html
 https://one-graup.com/LAK.hta
 https://one-graup.com/LKK.hta
+https://onestep-2siwpgo9tb.live-website.com/klarna/
+https://onestep-2siwpgo9tb.live-website.com/klarna/index.php
 https://online-app.j-trader.info/
 https://online-app.j-trader.info/YtPGrpxv
 https://online-app.j-trader.info/common/GetCredentialType
@@ -1868,6 +1895,12 @@ https://pagopa-team-account-att-infos122.codeanyapp.com/pagopa.it/eb8db04873ba8a
 https://pagopa-team-account-att-infos122.codeanyapp.com/pagopa/log/
 https://pagopa-team-account-att-infos122.codeanyapp.com/pagopa/log/msdpweb/index.php
 https://pagopa-team-account-att-infos122.codeanyapp.com/pagopa/log/panel/classes/processor.php
+https://pagopa.italia.designrigoroso.com/paa/pag/log/msdpweb/loading3.php
+https://pagopa.italia.designrigoroso.com/paa/pag/log/msdpweb/phone.php
+https://pagopa.italia.designrigoroso.com/paa/pag/log/msdpweb/send.php
+https://pagopa.italia.designrigoroso.com/paa/pag/log/msdpweb/sms.php
+https://pagopa.italia.designrigoroso.com/paa/pag/log/msdpweb/wait.php?p=PersonalInfo
+https://pagopa.italia.designrigoroso.com/paa/pag/log/panel/classes/processor.php
 https://pagopa.kuwait-postdelivery.org.uk/nseba/public
 https://pagopa.supportsend.online/pgp/pgpp/log
 https://pagopa06may2026.blob.core.windows.net/index/acceder.html
@@ -2531,6 +2564,7 @@ https://tezamur.top/
 https://tezamur.top/oo.php
 https://tezamur.top/rx/f.php
 https://thecultureechoes.com/df/pagoana/pagoana/pagopa/log
+https://thecultureechoes.com/z/pagoana/pagoana/pagopa/log
 https://thereisnospoontrk.com/
 https://tinyurl.com/33bzhdss
 https://tinyurl.com/39du9cfe
@@ -2543,6 +2577,7 @@ https://track.bidgely.com/f/a/4niHqLygZvgd5tL6EVD1sQ~~/AAHCLhA~/NGO5Ag0hGNFJa_hL
 https://track.bidgely.com/f/a/8p874lY0twCij0h2sEqCVg~~/AAHCLhA~/TIzF5G3bwFZX61doZUvdBqJZ8GKtOv_hXNUElBNqx2BxUuzX_AGzcHxzkVp1n9ZbXRuIcgHeUwfWRoHW-14RR7Q8Y1twLmvYmxCCl3yZZSA~
 https://track.bidgely.com/f/a/Jy6u7tHbQlUIBgIrbrGang~~/AAHCLhA~/CxNJUBKmDh2_FJeQGbsH6XweVA3fgSG1HXSR-cMA4jUh2vXmlG8MF1lgjs9stF4pfcMTqol0B45T4KMKZlbGr-WBxhCaiHHWPEBneJwKYNvcfayMAz0esqXZQUL2X77j
 https://track.bidgely.com/f/a/SEOHpy5xU6dVEcRIXilXZA~~/AAHCLhA~/1g2dRuBxBVvf1VTesO5IhE0qrYUzNgQtHVCSeSuzCAT003JbLFqWxYOB9MH7nwvtviKKbsFWzYF0tKqei0f_vUcIi3FyufUjaeGMwcFC74c~
+https://track.bidgely.com/f/a/ScpR7DGwvF6kKlLVP2wjow~~/AAHCLhA~/3Wqy22j5ix1AzIwyRR0_ZdMD78Kefihff8uMVu6nJwSO-kxTJ4ocz6yvV036ufUrfzirVOgQb4Mvv3rH8rMYQrb5k8pV2U7oKhqsgXVuFFGHkE5oqugqBnjh6VdgORYn
 https://track.bidgely.com/f/a/VYJ7qhWZm0WkvK80ByDefg~~/AAHCLhA~/GGkKwCOGGWhh2M8cWHmT3yFP5nOTaYZbqzpOBH7kbFX4BeJLBF7SSs6xcxAdKsd-PcanD8q4QVLeHQGRpH5ZMSE5y0a0aFj5LUuWhNpK2HIZwQfrnVswJoSWWhvfPpCq
 https://track.bidgely.com/f/a/ZetCg4tPCIBSV0f1rrS7JQ~~/AAHCLhA~/f8p-i6jXGJ0GqJF_4LlPl3fOSqieLpy6zkMFthQJ3LjNL9SMxhJzdcwjeKNiOOj4Y5iI2FeKFP_Ztfarrddoryhd5-IM60GusKSWke4ty5M~
 https://track.bidgely.com/f/a/als6fTCAmQ34DwABrmRQWA~~/AAHCLhA~/8Mdkoi3a2S4TLFGnatRk5mdodgLjlW3BXSCzpJDcKsim6-k6JRV6GXcgF4Z7y14H4rdOhpYIF5OuuG9GiA_iNzeOokxBaFrLv3RNocp7VHV16zlckxtpYJ8QAl4xKn2k
@@ -2799,6 +2834,7 @@ https://www.icicimanagecards.online/iMobile%20Lite.apk
 https://www.icwh2q9w.com/3QJ6DW/99C1T1G/
 https://www.installdevicepopular.autos/
 https://www.kavoutai.com/signed.apk
+https://www.kisa.link/TVtgM
 https://www.lightweightsafefastguard.autos/1jmb8u0a1/l
 https://www.lightweightsafefastguard.autos/c
 https://www.lpinnovationsphere.com/2W1Q1KK/37T2Z339/
