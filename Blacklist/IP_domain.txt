@@ -26,7 +26,6 @@ ab80cc7d.pinme.dev
 acc-pro-login.net
 access-authority-2fa5027dfb.s3.ap-south-1.amazonaws.com
 account-extranet-signin.com
-acint.net
 acrobat121.netlify.app
 acrobaticdocum.es
 adianjing.com
