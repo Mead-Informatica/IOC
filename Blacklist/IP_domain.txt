@@ -43,9 +43,12 @@ admin.surpluslink.co.uk
 adnavze.findarkom.es
 afacte.ca
 afrimorktours.com
+afxwd.ddns.net
 agenciatributaria.gob.es.t.mydomain.zone
 agencysurveys.store
 agenziadellentrate.com
+agenziadentrate.com
+agenziaentrate-rw.com
 agenziaentrate.grillwestfrentes.com.ar
 agenziaentrate.live
 agenziaentrate730.com
@@ -53,6 +56,7 @@ agenziaentrategovit.tajerlibya.com
 agenzlaentrate.com
 agfscudo.com
 agg-inps.it
+aggiorna-datinps.it
 agntrate.app
 agnztrat.app
 agroluxgs.cz
@@ -80,6 +84,7 @@ anuttara.in
 anycont.com
 anyioba.lovestoblog.com
 aoudefn.resecio.de
+api.gelukkigewinnaars.nl
 app-77849684-cfb8-4636-b4db-eae092ed0c5f.cleverapps.io
 app-inps.it
 app.burstminutemoney.pics
@@ -97,6 +102,7 @@ areaclienti-intesassanpaolo.auth-login-dashboard.com
 arizonafoundationquarterhorses.com
 arub-it.myshopify.com
 as.al
+ashayeshfurniture.com
 asistanceaccco1.jdevcloud.com
 askfarouk.net
 assistenza.sicurezza-del-cliente.net
@@ -172,6 +178,7 @@ blestorians.cfd
 blitestark.cfd
 bloblo.store
 bnccakicsteamworkspace.myclickfunnels.com
+bonanza.davidsabido.com
 bonvoytourism.com
 bootstrap-f5c7.restdb.io
 bothu.vu
@@ -245,6 +252,7 @@ code1.ydns.eu
 colure.click
 commisariatodips.help
 commissps.help
+comunebologna.online
 comunedigital.info
 comunicacionesinersas.com
 contaboserver.net
@@ -267,6 +275,7 @@ d1.chassealarc.com
 damagemorningsock.beauty
 danielesquivel.cl
 dark-notes-405613.framer.app
+data3-au.com
 decizia.com
 deferinmspa.nyc3.cdn.digitaloceanspaces.com
 deliriumdistributors.com
@@ -298,6 +307,7 @@ doxc.dedhgaj.com
 dozane-studio.com
 drndel.com
 duclongetc.com
+dwoslwp.nyc3.cdn.digitaloceanspaces.com
 dy7qpqvgch.vertexnook.com
 e257988351.nxcli.io
 eatskorea.com
@@ -337,8 +347,10 @@ farmaciamorelli.com
 fastconsulting.info
 fastdeliveryaservice.world
 fezgergtrbvervf.wpdevcloud.com
+filmlabfestival.it
 findarkom.es
 findomestlcid.sviluppo.host
+flash-updater.vercel.app
 flowageallars.art
 fmlfmf6zfr.com
 fmrim3.charleslaskar.fr
@@ -378,12 +390,14 @@ futurecorp.su
 g1pgrvlkqz.wpdns.site
 gadelli.com
 gadgetfromjorge.store
+gamedbd.com
 gapo.rako9jabus1.com
 gate-tj.com.cn
 gateway-cde.milkpay.systems
 gencatitc.weebly.com
 generacsr.com
 generalspacenter.com
+germanvargas902030003.duckdns.org
 getabre.com
 giapargentina.online
 gleaming-asset.com
@@ -403,6 +417,7 @@ govpagopaitalia.anpasas.it
 govvpagopasones.com
 grammardesk.tor1.digitaloceanspaces.com
 grgroup.com.pk
+ground-panel.supportdhlonline.cloud
 grth-mmm-0044.sfo3.digitaloceanspaces.com
 gruppo-di-sicurezza.intesasanpaolo-1a.com
 gruppo-intesasanpaolo.la-tua-sicurezza.com
@@ -654,6 +669,7 @@ nlsnf1trk.com
 notificationpayment.click
 notificheadigitali.com
 notificheadigitali.org
+notifichecdigitali.com
 notifichedigitaili.com
 notifichedigitaili.online
 notifichedigitali-it.art
@@ -780,6 +796,10 @@ notifichedigltali.sbs
 notifichedigltali.shop
 notifichedigltali.web.id
 notifichedigltali.xyz
+notifichedigtali.biz.id
+notifichedigtali.cfd
+notifichedigtali.my.id
+notifichedigtali.shop
 notifichedlgitali.autos
 notifichedlgitali.biz.id
 notifichedlgitali.boats
@@ -901,6 +921,7 @@ pgoopacemit.firebaseapp.com
 phi1fxydut.wpdns.site
 phphostings.com
 pilarplaygame.com
+pillarsesolution.com
 piovau.com
 playstoreapps.biz
 pointlegrodautomatic.skin
@@ -943,6 +964,7 @@ register.streamecho.net
 register.streamshift.net
 reh.seralihostinzgtaksiilhostitaliyt.shop
 reimosta-la-password-verificca-ogetta.com
+relay.gamedbd.com
 rency.ydns.eu
 renewal-app-site-ground.photo-contest.it
 renewal-panel-site-ground.happyhabit.eu
@@ -975,6 +997,7 @@ s-nobility26417.birkolios.com
 s1128529.ha008.t.mydomain.zone
 s1167342.ha021.t.mydomain.zone
 s1191217.ha023.t.mydomain.zone
+s3.filmlabfestival.it
 sahar20muataazzziiz.s3.ap-northeast-2.amazonaws.com
 samtecit.co.uk
 sangvvoo.com
@@ -1054,6 +1077,7 @@ subdomain.vdtronwebrriel.sbs
 subito.controllo-837361.sbs
 submit-form.com
 support-info.com.es
+supportdhlonline.cloud
 supportointesanpaolo.satbeerday.com
 supportointesasanpaolo.alaseelcleaningservicesabudhabi.ae
 supportopagopagov-it.horizont25.ae
@@ -1121,6 +1145,7 @@ vertexnook.com
 videoamzprime.com
 vitalite-beaute-feminite.com
 vivacious-media.co.za
+viveturetiro.mx
 viviinformato.it
 vlxeao2dc9fe2f.nyc3.digitaloceanspaces.com
 vmi3300525.contaboserver.net
