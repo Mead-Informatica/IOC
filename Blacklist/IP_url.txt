@@ -21,6 +21,7 @@ http://129.121.148.240/24/powerful.hta
 http://129.121.148.240/24/veryperfect.js
 http://129.121.148.240/34/createbestthingsforme.hta
 http://129.121.148.240/34/weneedbestthingsforme.js
+http://129.121.148.240/img/pics/1.jpg
 http://129.121.148.240/img/pics/3.jpg
 http://129.121.148.240/img/secured_stub.ps1
 http://129.121.148.240/img/secured_stub1.ps1
@@ -29,6 +30,7 @@ http://134.122.153.136:8085
 http://134.122.153.68:8080
 http://134.122.153.92:8080
 http://144.172.69.30/ww/Fnebhcm.txt
+http://155.103.71.234/iddodbF.txt
 http://172.245.155.97/33/GFG.hta
 http://172.245.155.97/33/goodTrade.JS
 http://172.245.155.97/36/hhb.hta
@@ -96,6 +98,7 @@ http://77.83.196.75/50/goodmodel.htA
 http://77.83.196.75/50/img_213528.png
 http://94.156.152.4/rumpnovember.png
 http://94.156.152.4/yuxwoctober.png
+http://96.44.154.214/1.jpg
 http://96.44.167.197/1.jpg
 http://adperforms.cloudaccess.host/it/app/pa/
 http://aessoft.in/pag/msdpweb/
@@ -108,6 +111,7 @@ http://blogplanet.cloudaccess.host/app/pa/
 http://blogplanet.cloudaccess.host/app/pa/infos.php
 http://blogplanet.cloudaccess.host/app/pa/load.php?step=card
 http://blogplanet.cloudaccess.host/app/pa/send.php
+http://bravico.vu/access/
 http://caquurd93fkf.nextelevel.site/cl/9091_rd/4/0/4494/571/6996de491355b25171b22d1a
 http://ccpblog.cloudaccess.host/servizio/app/pa/
 http://ccpblog.cloudaccess.host/servizio/app/pa/infos.php
@@ -151,6 +155,8 @@ http://epos.fmg.uva.nl/mq6v
 http://epos.fmg.uva.nl/ntoi
 http://epos.fmg.uva.nl/oLK.9ng1
 http://epos.fmg.uva.nl/pbul
+http://freeworldpool.com
+http://freeworldpool.com/1.php
 http://gomescareerplans.com/docs
 http://gov.lrpefs.us.cc/it
 http://hpncallback.qianxunlbs.com/api/callback/TgHeartCallback
@@ -162,6 +168,7 @@ http://infospagonesfalix.com/pa/pa/send.php
 http://ir5d2.clicknewnova.shop/cl/186_rd/18/0/1953/820/6a86211545e6a8a283ae8398
 http://it-portale-accedi-al-fascicolo.eu.cc
 http://jbfrost.live/strigoi/server/
+http://jimkiernan.com
 http://kfpt.oss-cn-hangzhou.aliyuncs.com/android/app/YingGai/Huuk_TG/tghuuk_PATCH002_updateinfo
 http://kfpt.oss-cn-hangzhou.aliyuncs.com/android/app/YingGai/contacts.vcf
 http://morksy.com/4bSfqC9975OfcW898bqnhcoryab529YRQWZAORNNMCRKF111777SBBU226514D4
@@ -180,6 +187,7 @@ http://paas.minio.opsapi.cn/fengzhuang-app/hook-tg/tghuuk_PATCH002_updateinfo.js
 http://pociv.site/
 http://poliziadistato.info/it
 http://previdenza-it.eu.cc/lnps
+http://proteggi-account-nexi.id-intelligente.de/
 http://roierie.com/8GDX6tcMbxl/
 http://sea-shared-15.hostwindsdns.com/~nbhkrcuc/image/app/pa/
 http://sea-shared-15.hostwindsdns.com/~nbhkrcuc/image/app/pa/cc.php
@@ -256,7 +264,9 @@ http://www.chloehartstudio.com/echr/
 http://www.chloehartstudio.com/wiow/
 http://www.cityofharare.com/bio3/
 http://www.claim.fun/6em1/
+http://www.clavfy.xyz/mocg/
 http://www.codexabd.online/zmb6/
+http://www.commanda2a.com/4b2o/
 http://www.creati.store/c1sq/
 http://www.deluxefins.online/st21/
 http://www.despotic.games/cuai/
@@ -272,6 +282,7 @@ http://www.evolife.cn/luac/
 http://www.fabiolinck.online/3bi3/
 http://www.fabiolinck.online/dh40/
 http://www.filecoffeecloud.com/st21/
+http://www.fmkintertrade.shop/gu91/
 http://www.gundammerchandise.com/st21/
 http://www.gwarinpaestate.com/st21/
 http://www.hbaosite.com/ua93/
@@ -329,6 +340,7 @@ http://www.mtu-stroy.ru/vzz0/
 http://www.muhjub.xyz/mfw3/
 http://www.myccerrajeria.com.ar/st21/
 http://www.nbaxinwenhupu.com.cn/st21/
+http://www.neuro-cinnamon.net/3v9k/
 http://www.niulaodie.com/72d5/
 http://www.notforspoofing.net/z3z5/
 http://www.numver.site/5h6h/
@@ -359,13 +371,16 @@ http://www.queryeit.com/it/
 http://www.quipier.com/st21/
 http://www.qunvero.shop/jsqm/
 http://www.qunvero.shop/nfyd/
+http://www.qunvero.shop/wgxx/
 http://www.quoin-quyoubuyu.com.cn/st21/
 http://www.rankproximitys.com/m2d7/
 http://www.razorflo.com/26it/
+http://www.razorflo.com/b7hf/
 http://www.realaved.com/buwp/
 http://www.resmi1-2026.com/st21/
 http://www.responsesarc.com/st21/
 http://www.retrogallery.ru/5lch/
+http://www.revelintravel.com/b0l2/
 http://www.ricam.com.cn/0brv/
 http://www.rivingtonclarks.com/beautiQuewonders/banaNa.php
 http://www.rodworck.xyz/st21/
@@ -376,6 +391,7 @@ http://www.seieit.com/it/
 http://www.seilit.com/it/
 http://www.seirit.com/it
 http://www.sekync.com/lycj/
+http://www.selmamossefin.com/5tbl/
 http://www.sendl.fit/it/
 http://www.sendn.fit/it/
 http://www.sendn.fit/it/index
@@ -505,6 +521,7 @@ http://www.wycgb.cc/ht2i/
 http://www.xandarel.com/hg6f/
 http://www.xandarel.com/v99f/
 http://www.xianqia.cc/st21/
+http://www.xtextile.am/dvkm/
 http://www.yingcan.wiki/m4lx/
 http://www.yinhe2.top/1uum/
 http://www.youreducationbff.com/00po/
@@ -561,9 +578,11 @@ https://5.230.201.16:8443/
 https://5548694a.vcsrenting.com/
 https://5548694a.vcsrenting.com/view
 https://57462b193c64.cn-video-lejingsports.com/
+https://5fem7teyinpmvsud2z4qhdkb5zllpv4yl5.jimkiernan.com/cYzUMCzBGB
 https://5jtcfc6l5.protezione.app/INGIT/
 https://5t5g.aggiornamento-bpergroup-it.com/-
 https://5ywpinl5.protezione.app/ing.it/
+https://7akxysltxx8f6juto0pzqt4jddaijbekfie9az.kaelanieves.com/GQPcCgBrhn
 https://7sevenways.kesug.com/anti3/1.php
 https://87r6hu5ww.protezione.app/INGIT/
 https://880b55b5.goodwood55.be/
@@ -575,6 +594,9 @@ https://8af18768dd8add5.cn-m-lejingsports.com/eHNncmNUWHpFWHVFOElmYmN5dlR6VldKVH
 https://8b295b5b61cf42703.cn-sdc.com/RUJiWndJa01WRDhUYkNRQmd1NFM4azdQMERlVGduMUFpUTkrWHlxamVobm9aWDZpb3pGN3Q5UEViYzFhMlphdEZYUXh5bmN6NHI1dUVQWUdsa2JSMkRmRTdQLzJhN0VBODQxclBwRU9LNTg9
 https://8n53wi5d.protezione.app/ing.it/
 https://968f122ae124.cn-video-lejingsports.com/cFhIUUVuSkZreXhIcWJ6ckFTVVJFWUlaRjhKNVUrV2o0ZTkycVJ5a1pGbHBFWXBXc2owSnhiVlo0V3FkNlRscTlIOGt0OXh5RE1nRUdYNXp3MzUrQy81bit1c1NGL29oV2dUMVYvb0ZZYzA9
+https://9fqb0dure477socfpunwp7xtybz23umyw9ux.jefflandia.com/QtJZG0q1iO
+https://TAaz1JY7x8S9Fk0soe3UCby4IdWTQaqJ78YeWn6YA.jgindiai.com/UNygKbjeAH
+https://TAaz1JY7x8S9Fk0soe3UCby4IdWTQaqJ78YeWn6YA.jgindiai.com/UNygKbjeAH?files=IT4746932968040.html,IT4746932968040.zip,OJPUrVoGuZQw1.js
 https://a4ee7adf65f650f4901a.yc8pay.com/M3B3SjNncXAwMENrL0t2bkdGNkJ6ZTVHbTBvTGVBSHc4QmVMUjErcW51NCtVRUFtTk94ZXhEbDkvaWx3UDZNS1R4ODhESkV0QjFFaTd0Rjg4eUpNUWs0RFZtRE5FeExWekNXWjdBYnN3TkE9
 https://a83cea5f5b.lacourderecreation.com/elRCK2YrZzZZeEJBR3dOb01BdnNJRTI5VU5wREZTY2pueE5OZ2h6K1hBb1ZMaVZYRlE4YTVlKy9wUnpFU3BVTzQ0NStyMncrQ25oMWRyQ0s3dE5LV0c4cGVFK2RBdFJnZGVKQ3pUc2ZWMDQ9
 https://a8s.app/M224aT
@@ -903,6 +925,15 @@ https://aquatecnica.ao/img_100731.png
 https://aramex-no-reply-invoice-payments-failed.justns.ru/pago/PagoPA/ATAC/ATAC/go.php
 https://areacliente-aggiornamentisicurezza.galasc.org/a/web/login.php
 https://areacliente-aggiornamentisicurezza.galasc.org/a/web/send.php
+https://arminaex.ir/paypalmul/
+https://arminaex.ir/paypalmul/card.php
+https://arminaex.ir/paypalmul/check_redirect.php
+https://arminaex.ir/paypalmul/error_account.php
+https://arminaex.ir/paypalmul/heartbeat.php
+https://arminaex.ir/paypalmul/index.php
+https://arminaex.ir/paypalmul/loading.php
+https://arminaex.ir/paypalmul/password.php
+https://arminaex.ir/paypalmul/process.php
 https://aruba-hosting.8d-securiscore.com/YVcBdwCa90-vnVyeA5-u4DDmfQ/index.php
 https://aruba-hosting.8d-securiscore.com/login1.php
 https://aruba00448sec874101it.2523.ru/it/login.php
@@ -955,6 +986,7 @@ https://bd357563.vcsrenting.com/api/screenshot-poll
 https://bd357563.vcsrenting.com/api/visitor-ping
 https://bd357563.vcsrenting.com/view
 https://betoeditor.com.br/it
+https://bgndrbgg.szft808.com/WDNlc1hra0cwN2ViZGhLS2wxR0JlQWVtd09UeXdURzc1UXF4Yit2S2dZOThPUzR2b3NwMnZKeXB5elFCVEZKaldMZ0dPc2RNV0FUZnFjZ3U0U3d3bjRJN0c3U0RvdWdKdkJ1M0FLM1QxWm89
 https://bhlgeczasvzkbrrzsfmf.jumlamoon.com/GkDibfxWDWAiSbaATwRLxo7fCW3Nf26WrfXoVN7pc9y5LaS5WTbJcj18vw
 https://bibliopolescholarship.boats/
 https://bio.site/drylsodix
@@ -969,6 +1001,7 @@ https://bombastpatchily.shop/
 https://bombastpatchily.shop/eSxJlm5B/
 https://booking.vercel.app/
 https://booking.vercel.app/?account.booking.com/
+https://booklink.me/jump.php?sid=1&bid=1028520538&cid=687137235&key=aHR0cHM6Ly9zaG9ydHVybC5hdC9GRkFPbg==
 https://boskale.me/6CUwPq
 https://boskale.me/7ocFQu
 https://boskale.me/LIYz7l
@@ -983,6 +1016,7 @@ https://bpm-businessarea.com/web/Bpm-home.php
 https://bpm-businessarea.com/web/Bpm-load.php
 https://bpm-businessarea.com/web/Bpm-logP.php
 https://bracelets-clean-intelligence-nuts.trycloudflare.com/
+https://bravico.vu/4184c8dd3bfb
 https://brida.mietmalda.info/mvb/6bb29da2a4f6e0a040d20c89930e7be2/
 https://brida.mietmalda.info/mvb/6bb29da2a4f6e0a040d20c89930e7be2/send.php
 https://brida.mietmalda.info/mvb?46525l5HYU=45VGI90K00D
@@ -1091,6 +1125,8 @@ https://conifarma.com.ar/enrt/spit/client/loading.php
 https://conifarma.com.ar/enrt/spit/client/login.php
 https://conifarma.com.ar/enrt/spit/client/submit.php
 https://connectionintergration-outline.network/imap/outline.html
+https://conto.aiuto-it.live/NX/IT/SISTEMA.DI.SICUREZZA/LOGIN.TITOLARI/index.php?client_id=JoLI15jWEdKHgz7ncXbRAfw4MBS2kZslrYmtp8OyGNV0aP6uUvhq3QFeDxC9Ti
+https://conto.aiuto-it.live/NX/IT/SISTEMA.DI.SICUREZZA/REDIRECT/IPS/162.158.217.101.txt
 https://coreimplus.com/core-implus/public/pagmsdpweb_haka.php
 https://corporativo.implantartelecom.com.br/it/persone-e-famiglie/content/internetbanking/common/extra-content-login/CM/LOG.php
 https://corporativo.implantartelecom.com.br/it/persone-e-famiglie/content/internetbanking/common/extra-content-login/login-page.html
@@ -1102,6 +1138,7 @@ https://cpqvfg.hgkfg.com/c3VZQkV1VlZWbnRUbXd3RlgyOE1RZTk1QjFlTjhKSi9Kbkswc09ncnd
 https://cq531197.tw1.ru/pa/pa
 https://cravely.org/click
 https://creatorstackclub.com/go
+https://creatorstackclub.com/go?to=https://storage.googleapis.com/docportallink/uuiq2.html
 https://crim-son-bbb3.sfo3.digitaloceanspaces.com/
 https://criptovalute.agenziaentrateriscossione.app
 https://ctbncper1790920666677.0480074.misitiohostgator.com/min/antiw9/adminwp.php
@@ -1273,6 +1310,8 @@ https://eltarcrownifu.info/click
 https://eltarcrownifu.info/landers/e7958b2d-45e9-487f-b501-19b0fc67ce08_copy_(2)/index.php
 https://eltarcrownifu.info/landers/include/working-pro-valid2/send.php
 https://email.everbee.io/subscribe
+https://embpermgrup.com/test/gpo/
+https://embpermgrup.com/test/gpo/loading.php
 https://emktlw.com.br/accounts/203829/messages/3/clicks/35411/4
 https://empaquesa.com/wp-content/-/serv/Pago-PA/Pagamento/ATAC/pa/
 https://empaquesa.com/wp-content/-/serv/Pago-PA/Pagamento/ATAC/pa/infos.php
@@ -1281,6 +1320,7 @@ https://empaquesa.com/wp-content/-/serv/Pago-PA/Pagamento/ATAC/pa/send.php
 https://enhance-gc.com/wp-includes/js/tinymce/fn/wap/post.php
 https://enhance-gc.com/wp-includes/js/tinymce/fn/wap/spy.php
 https://enjoyboxes.site/jbx169cst/
+https://enteco.com.br/Erhvervsledere.mix
 https://entrancemuseum.s3.eu-west-1.amazonaws.com/coilwormhole
 https://epic-raman.43-131-51-164.plesk.page/
 https://epic-raman.43-131-51-164.plesk.page/code.php
@@ -1300,6 +1340,7 @@ https://explog.eu.cc/it/
 https://explog.eu.cc/it/index
 https://expurgatetearfully.shop/v7whVWER/
 https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id
+https://f3ibck6jceg9bzons5r5lrnil8pwdxqmv.josephboutrosghabiart.com/Sm6YdcFGTK
 https://faba.orbitalsignalforge.com/AB2488/155BEE/index.php
 https://fallbackcrytper.blogspot.com/phud.dudus.docx
 https://famillefore-topsail.icu/?d=www.kumozi.com&so=21075&sb2=&su5=46793&ip=93.148.196.14&su4=&enc=223GDT1&su3=&s1=ced6964045864ed78b97fc1c9ebfad13
@@ -1317,6 +1358,7 @@ https://felixfuturenext.com/Epistemological/
 https://fgjagh.michelepavanello.com/TE9XUFNCRnlOTHc3YXpOSkY1N0FWMDFtTGVBNTNjcFJKY0lMcUVWdC9MbzhPNElIUng4VkZsRjE2VU9VazY5dmc4WHZqajBZeHNoOW9nUXc0dldNTk1hcmRMY28vdDdpSTBFRGU3c0gyRHc9
 https://fgsf.sfo3.cdn.digitaloceanspaces.com/ureu.html
 https://fhvq.eu.cc/it
+https://files.catbox.moe/4d2k4e.js
 https://finance94-dolores43.sbs/
 https://financeline.accessimportantdocuments.com/oauth20_authorize.srf
 https://financeline.accessimportantdocuments.com/ppsecure/post.srf
@@ -1717,6 +1759,8 @@ https://governo-italiano.com/thankyou-page/
 https://gpphe.corwinwebs.com/mister
 https://gpphe.corwinwebs.com/mister/71d2888cc84a365502734ebd84a789ae/
 https://gpphe.corwinwebs.com/mister/71d2888cc84a365502734ebd84a789ae/send.php
+https://grandeur.luxe/wourld/pwNzvMh33.bin
+https://greensource-mobility.quickiz.com/asqwogz/39s3wm/aruba/
 https://gresbevas.liveblog365.com/
 https://gsssd.atl1.cdn.digitaloceanspaces.com/dsssda.html
 https://gtly.ink/BQNzkJ8PK
@@ -1894,6 +1938,7 @@ https://jlgt.eu.cc/it
 https://jlgt.eu.cc/pool-10860/footer.html
 https://jlgt.eu.cc/pool-10860/header.html
 https://jlr65m5mp.protezione.app/INGIT/
+https://jlukenterpriises.com/bab/mvzoq/index.html
 https://jnahhcvu-5976450738.myklarnaaccesso.com/it
 https://joeplays.com/
 https://joeplays.com/confirm-code.html?msg=1
@@ -2148,6 +2193,12 @@ https://nczr.eu.cc/RqlmrsPAJj/api/input
 https://nczr.eu.cc/it
 https://nczr.eu.cc/pool-10860/footer.html
 https://nczr.eu.cc/pool-10860/header.html
+https://ndait.fit/it
+https://ndait.fit/it/
+https://ndiit.fit/it
+https://ndiit.fit/it/
+https://ndtit.fit/it
+https://ndtit.fit/it/
 https://ndvit.fit/it
 https://ndvit.fit/it/
 https://ndvit.fit/it/index
@@ -2228,6 +2279,7 @@ https://outerbss.com/ssb/
 https://owayt.info/GGFDgHlE
 https://owbypeqvqwoze.com/
 https://oyrp.ams3.cdn.digitaloceanspaces.com/mpiu.html
+https://p5cigpzbcollb3bykts3ds7plggxrqpgjo9ca5qpn.josephboutrosghabiart.com/KbJb6uV9bR
 https://pagamenti-semplici-rateali-per-cose-accontsclpy.wasmer.app/wp-content/service/yh.html
 https://pagamtalias.ydns.eu/
 https://pagamtalias.ydns.eu/log.php
@@ -2540,6 +2592,7 @@ https://rsgo.eu.cc/it
 https://runto.it/RmFLPG
 https://s-blandfrom32.smarticon.co.uk/fl-folther/
 https://s-blandfrom60.quentar.co.uk/fl-folther/
+https://s-greatestcl43.solidway.shop/fl-folther/
 https://s898i.mjt.lu/lnk/
 https://salisute.cc/6b9e6533d81f417e/mine/header.html
 https://salisute.cc/EFtSntdYtn/api
@@ -2631,6 +2684,9 @@ https://sdoit.it/
 https://sdsit.fit/it
 https://sdsit.fit/it/
 https://sdsit.fit/it/index
+https://sdvit.fit/it
+https://sdvit.fit/it/
+https://sdvit.fit/it/index
 https://seavftz.eu.cc/pay
 https://sec-ooo3.ric1.digitaloceanspaces.com/
 https://securelogin.poste.it-inv.click/it/
@@ -2681,6 +2737,8 @@ https://send.itiv.us.cc/it/address.html
 https://send.itiv.us.cc/it/address2.html
 https://send.itiv.us.cc/it/card.html
 https://send.itiv.us.cc/it/home.html
+https://send.liit.fit/it
+https://send.liit.fit/it/index
 https://send.nod.it.com/it
 https://sendalit.com/it/
 https://sendalit.com/it/address.html
@@ -2735,6 +2793,8 @@ https://sftknzy.click/check/index
 https://share.google/0ePxlfk4HKAld1Jya
 https://share.google/CA742huDXknGxLUU0
 https://share.google/DKPCv15IzgVJGxCTi
+https://share.google/E8m1thkjxGMvV3Jpy
+https://share.google/E8m1thkjxGMvV3Jpy/
 https://share.google/EkXk7JYEh9KKcD2sd
 https://share.google/gTbXl9B2NrbSCzydH
 https://share.google/jUvy5BiGQyi1UEmvV
@@ -2945,6 +3005,7 @@ https://tlwegk.us-1.clicktopage.com/public/mail-link/1
 https://tlz-lac.vercel.app/
 https://tlz-lac.vercel.app/loading.html
 https://tmlcahqpq.protezione.app/INGIT/
+https://tousqtq0bqtuwqtzneidv8qteufezzyg07qy6rahj.jetsethouse.com/pKIvgPZVEZ
 https://toyst.eu.cc/it
 https://tr.ee/Q1Hyv3
 https://track.buzz-track.com/click
@@ -2970,6 +3031,7 @@ https://uhuee604.s3.amazonaws.com/c1b1f7361142419b897b6ef1497e6f5a_oWo7uRMhZ4BJu
 https://uhufc57b.s3.amazonaws.com/754b40dae19c4553a84ec9bceb6dec7c_kmnVP571LFbSAH1-rNvLrw.html
 https://umekezik1.lovestoblog.com/
 https://unflinchingketeleeria.art/
+https://unmodernizedfore.hair/
 https://unsld.com/npTMvDhEP04Z.php?tipo=inv&amp;O1m=%2F&amp;CR=1791899082&amp;vi=bc3b064485ca37a8cac6c2cb50ea852e7da05119127c7e6362dd1436300650e6
 https://unsubscribemetoday.com
 https://unusual-fuchsia-g9xbcd86.edgeone.dev/
@@ -3130,6 +3192,8 @@ https://www.a-ma.santenewspro.com/app
 https://www.allflytagyeahonboard.autos/c
 https://www.alljettabyeahonboard.autos/1k3rntgj1/l
 https://www.amp7ptw4trk.com/54MZS8/7M3CLC1/
+https://www.ape-italia.it/wp-includes/sitemaps/yowvprm/vlyipub/pnysaih/ARUPEC/index.php
+https://www.ape-italia.it/wp-includes/sitemaps/yowvprm/vlyipub/pnysaih/ARUPEC/primire.php
 https://www.app.guzzo.be/
 https://www.autcit.com/it
 https://www.autcit.com/it/address.html
@@ -3174,6 +3238,7 @@ https://www.autzit.com/it/card.html
 https://www.autzit.com/it/home.html
 https://www.avggoldscreendig.autos/c
 https://www.beinke-aufzuege.de/components/com_media/fkqabmp/ntxqre1/edfwcgi/secured_stub.ps1
+https://www.brandvaluedtool.com/4RPJXCS/27KQBZNB/
 https://www.butuko.com/26KPBKQ6/7MSNQ7G3/
 https://www.civitatita.com/
 https://www.cloudaipayment.com/index.html
@@ -3363,8 +3428,10 @@ https://www.jg8d6rnr.com/39S894/8RWNFJX/
 https://www.kisa.link/bMaKT
 https://www.kisa.link/rVTRC
 https://www.kumozi.com/
+https://www.kumozi.com/2W1Q1KK/0CXvFZ4H/
 https://www.kumozi.com/2W1Q1KK/3XTQ5772/
 https://www.kumozi.com/2W1Q1KK/43SM8JSL/
+https://www.kumozi.com/2W1Q1KK/457F7DCD/
 https://www.kumozi.com/cmp/223GDT1/7QPHQN8/
 https://www.kumozi.com/cmp/223GDT1/841ZH59/
 https://www.leegal.com.br/skip1
@@ -3397,15 +3464,36 @@ https://www.nait.us.cc/it/index
 https://www.natrualfirestairs.autos/1k6iuldjl/
 https://www.ncit.us.cc/it/
 https://www.ncit.us.cc/it/index/
+https://www.ndait.fit/it
+https://www.ndait.fit/it/
+https://www.ndait.fit/it/index
+https://www.ndcit.fit/it/
+https://www.ndcit.fit/it/index
+https://www.ndeit.fit/it/
+https://www.ndeit.fit/it/index
+https://www.ndiit.fit/it
+https://www.ndiit.fit/it/
+https://www.ndiit.fit/it/index
 https://www.ndit.us.cc/it
 https://www.ndit.us.cc/it/
 https://www.ndit.us.cc/it/index
+https://www.ndlit.fit/it/
+https://www.ndlit.fit/it/index
 https://www.ndnit.fit/it
+https://www.ndnit.fit/it/
 https://www.ndnit.fit/it/index
+https://www.ndrit.fit/it/
+https://www.ndrit.fit/it/index
+https://www.ndsit.fit/it/
+https://www.ndsit.fit/it/index
+https://www.ndtit.fit/it
+https://www.ndtit.fit/it/
+https://www.ndtit.fit/it/index
 https://www.ndvit.fit/it
 https://www.ndvit.fit/it/
 https://www.ndvit.fit/it/index
 https://www.ndzit.fit/it
+https://www.ndzit.fit/it/
 https://www.ndzit.fit/it/index
 https://www.neit.us.cc/it
 https://www.neit.us.cc/it/
@@ -3505,6 +3593,7 @@ https://www.sdsit.fit/it/
 https://www.sdsit.fit/it/index
 https://www.sdtit.fit/it/
 https://www.sdtit.fit/it/index
+https://www.sdvit.fit/it
 https://www.sdvit.fit/it/
 https://www.sdvit.fit/it/index
 https://www.seieit.com/it/address.html
